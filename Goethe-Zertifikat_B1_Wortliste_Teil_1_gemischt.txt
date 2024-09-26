@@ -170,10 +170,10 @@ direkt
 
 direct, directly
 
-1.‎ We deliver the goods directly to your house.
-2.‎ The village is located directly on the highway.
-3.‎ Is there no direct train to Hamburg?
-4.‎ They are broadcasting the soccer game live.
+1. We deliver the goods directly to your house.
+2. The village is located directly on the highway.
+3. Is there no direct train to Hamburg?
+4. They are broadcasting the soccer game live.
 
 
 
@@ -1505,9 +1505,9 @@ besonders
 
 especially, particularly
 
-1.‎ I saw an especially good offer today.
-2.‎ The storm caused particularly severe damage in southern Germany.
-3.‎ How are you? - Not particularly well.
+1. I saw an especially good offer today.
+2. The storm caused particularly severe damage in southern Germany.
+3. How are you? - Not particularly well.
 
 
 
@@ -1862,8 +1862,8 @@ folgend
 
 following
 
-1.‎ More information on the following pages.
-2.‎ The store has the following offers: ...
+1. More information on the following pages.
+2. The store has the following offers: ...
 
 
 
@@ -6158,14 +6158,14 @@ It's not recognizable from this distance.
 
 die Form, -en
 
-1. Diese Schokolade hat die Form eines Herzens.
+1. Diese Schuhe haben eine schöne Form.
 2. Ich möchte für den Geburtstag einen Kuchen backen. Kannst du mir eine Backform leihen?
 
 
-form, shape
+form, mold
 
-1. This chocolate is in the shape of a heart.
-2. I want to bake a cake for the birthday. Can you lend me a cake mold?
+1. These shoes have a nice form.
+2. I want to bake a cake for the birthday. Can you lend me a baking mold?
 
 
 
@@ -6210,12 +6210,16 @@ Can you make me a copy, please?
 
 anders
 
-Anders geht das leider nicht.
+1. Anders geht das leider nicht.
+2. Oliver ist anders als seine Freunde.
+3. Ich würde das anders machen.
 
 
-differently 
+different, otherwise
 
-Unfortunately, it doesn't work any other way.
+1. Unfortunately, it doesn't work any other way.
+2. Oliver is different from his friends.
+3. I would do it differently.
 
 
 
@@ -6486,12 +6490,12 @@ to ring
 
 der Flughafen, ¨-
 
-Ich bringe dich zum Flughafen.
+Der Flughafen liegt 30 km außerhalb der Stadt.
 
 
 airport
 
-I will take you to the airport.
+The airport is located 30 km outside the city.
 
 
 
