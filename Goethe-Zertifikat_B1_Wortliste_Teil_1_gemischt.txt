@@ -6662,14 +6662,14 @@ I regularly attend a German course.
 
 dick
 
-1. Der Pullover ist sehr dick.
-2. Die Katze ist aber dick geworden.
+1. Ich bin zu dick. Ich muss weniger essen.
+2. Die Wände sind hier sehr dick.
 
 
-thick, fat
+fat, thick
 
-1. The sweater is very thick.
-2. The cat has gotten really fat.
+1. I am too fat. I need to eat less.
+2. The walls here are very thick.
 
 
 
@@ -6726,12 +6726,12 @@ We need many flowers and candles for the birthday table.
 
 digital
 
-Ich habe eine digitale Kamera.
+Ich habe eine Digitaluhr gekauft. Die geht genauer als meine alte Uhr.
 
 
 digital
 
-I have a digital camera.
+I bought a digital watch. It is more accurate than my old watch.
 
 
 
@@ -7062,12 +7062,12 @@ Can you help me with my homework?
 
 flexibel
 
-Ich bin in der Zeiteinteilung flexibel.
+Meine Arbeitszeit ist flexibel.
 
 
 flexible
 
-I am flexible with my time management.
+My working hours are flexible.
 
 
 
