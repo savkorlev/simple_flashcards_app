@@ -7559,7 +7559,7 @@ Bescheid sagen
 Ich erkundige mich nach den Terminen und sage Ihnen dann Bescheid.
 
 
-to inform, let know
+to inform, to let know
 
 I will check the dates and then let you know.
 
