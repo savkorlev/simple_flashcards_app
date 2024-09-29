@@ -7262,8 +7262,8 @@ der Herr, -en
 
 Mr., gentleman
 
-There is a gentleman who would like to speak to you.
-Good day, Mr. Müller!
+1. There is a gentleman who would like to speak to you.
+2. Good day, Mr. Müller!
 
 
 
