@@ -7511,7 +7511,7 @@ beschränken
 Die Teilnehmerzahl für den Kurs ist beschränkt.
 
 
-to limit, restrict
+to limit, to restrict
 
 The number of participants for the course is limited.
 
