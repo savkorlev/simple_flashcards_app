@@ -7146,7 +7146,7 @@ to need
 
 die Diskothek, -en / die Disko, -s
 
-Wir gehen heute Abend in die Diskothek.
+Wir gehen heute Abend in die Disko(thek).
 
 
 discotheque, club
@@ -7568,14 +7568,14 @@ I will check the dates and then let you know.
 
 entschuldigen, entschuldigt, entschuldigte, hat entschuldigt
 
-Entschuldigen Sie bitte, dass ich Sie störe. Aber es gibt ein Problem.
-Herr Meier lässt sich entschuldigen, er ist stark erkältet.
+1. Entschuldigen Sie bitte, dass ich Sie störe. Aber es gibt ein Problem.
+2. Herr Meier lässt sich entschuldigen, er ist stark erkältet.
 
 
 to excuse, to apologize
 
-Please excuse me for disturbing you, but there is a problem.
-Mr. Meier sends his apologies; he has a bad cold.
+1. Please excuse me for disturbing you, but there is a problem.
+2. Mr. Meier sends his apologies; he has a bad cold.
 
 
 
@@ -7610,12 +7610,16 @@ Please observe the speed limits.
 
 fliegen, fliegt, flog, ist geflogen
 
-Ich fliege morgen nach Berlin.
+1. Der Vogel ist auf einen Baum geflogen.
+2. Diese Maschine fliegt direkt nach New York.
+3. Ich bin nach Berlin geflogen.
 
 
 to fly
 
-I am flying to Berlin tomorrow.
+1. The bird flew onto a tree.
+2. This plane flies directly to New York.
+3. I flew to Berlin.
 
 
 
