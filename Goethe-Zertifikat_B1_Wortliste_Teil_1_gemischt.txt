@@ -7818,12 +7818,12 @@ head
 
 der Flohmarkt, ¨-e
 
-Am Wochenende gehe ich oft auf den Flohmarkt.
+Diesen Hut habe ich am Flohmarkt gekauft.
 
 
 flea market
 
-On weekends, I often go to the flea market.
+I bought this hat at the flea market.
 
 
 
@@ -7842,14 +7842,22 @@ We have to hurry. Otherwise, we will miss the train.
 
 der Anfang, ¨-e
 
-1. Sie wohnt am Anfang der Straße.
-2. Wir machen Anfang Juli Ferien.
+1. Wie war der Film? – Ich habe nur den Anfang gesehen.
+2. Am Anfang habe ich bei der Arbeit viele Fragen gestellt.
+3. Mein Chef ist Anfang fünfzig.
+4. Meine Mutter war von Anfang an dagegen, dass ich nach Berlin ziehe.
+5. Wir machen Anfang Juli Ferien.
+6. Meine Freundin wohnt am Anfang der Straße.
 
 
-beginning
+beginning, start
 
-1. She lives at the beginning of the street.
-2. We are going on vacation at the beginning of July.
+1. How was the movie? – I only saw the beginning.
+2. At the beginning, I asked a lot of questions at work.
+3. My boss is in his early fifties.
+4. My mother was against me moving to Berlin from the very beginning.
+5. We are going on vacation at the beginning of July.
+6. My friend lives at the beginning of the street.
 
 
 
@@ -8034,14 +8042,14 @@ My husband has a good chance of getting the job.
 
 einpacken, packt ein, packte ein, hat eingepackt
 
-Hast du Handtücher eingepackt?
-Soll ich Ihnen das als Geschenk einpacken?
+1. Hast du Handtücher eingepackt?
+2. Soll ich Ihnen das als Geschenk einpacken?
 
 
 to pack, to wrap
 
-Did you pack towels?
-Should I wrap this as a gift for you?
+1. Did you pack towels?
+2. Should I wrap this as a gift for you?
 
 
 
@@ -8172,14 +8180,12 @@ I don't need white, but colored paper.
 
 die Aufnahme, -n
 
-1. Bringen Sie bitte Ihre Aufnahme ins Krankenhaus mit.
-2. Die Aufnahmen im Studio waren sehr anstrengend.
+Bitte seid leise! – Ich starte die Aufnahme.
 
 
-admission, recording
+recording
 
-1. Please bring your hospital admission papers with you.
-2. The studio recordings were very exhausting.
+Please be quiet! I'm starting the recording.
 
 
 
