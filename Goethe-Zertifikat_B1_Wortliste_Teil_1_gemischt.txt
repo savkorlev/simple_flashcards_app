@@ -8074,10 +8074,9 @@ auf
 4. Gestern waren wir auf einer Party.
 5. Auf unsere Anzeige in der Abendzeitung hat sich noch niemand gemeldet.
 6. Wie heißt das auf Deutsch?
-7. Meine Tochter kommt nächstes Jahr aufs Gymnasium. (D) (A, CH: ins)
-8. Im Mai war ich im Urlaub.
-9. Ich bin schon seit zwei Stunden auf.
-10. Komm herein, die Tür ist auf.
+7. Meine Tochter kommt nächstes Jahr aufs Gymnasium.
+8. Ich bin schon seit zwei Stunden auf.
+9. Komm herein, die Tür ist auf.
 
 
 on, to, at
@@ -8089,9 +8088,8 @@ on, to, at
 5. No one has responded to our ad in the evening newspaper yet.
 6. What is that called in German?
 7. My daughter is going to high school next year.
-8. I was on vacation in May.
-9. I have been up for two hours.
-10. Come in, the door is open.
+8. I have been up for two hours.
+9. Come in, the door is open.
 
 
 
