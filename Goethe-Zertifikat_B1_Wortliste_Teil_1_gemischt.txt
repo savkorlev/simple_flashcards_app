@@ -8452,7 +8452,7 @@ We went to the historical museum with our class.
 
 das Leder
 
-1. Ist die Tasche aus Leder?
+Ist die Tasche aus Leder?
 
 
 leather
@@ -8656,12 +8656,12 @@ height
 
 die Diät
 
-Ich möchte abnehmen und mache deshalb eine Diät.
+Ich möchte abnehmen. Deshalb mache ich eine Diät.
 
 
 diet
 
-I want to lose weight, so I'm on a diet.
+I want to lose weight. That's why I'm on a diet.
 
 
 
@@ -8694,12 +8694,12 @@ I would like to thank you once again for your help.
 
 fliehen, flieht, floh, ist geflohen
 
-Viele Menschen flohen aus dem Kriegsgebiet.
+Der Einbrecher ist sofort geflohen.
 
 
-to flee
+to flee, to escape
 
-Many people fled from the war zone.
+The burglar fled immediately.
 
 
 
