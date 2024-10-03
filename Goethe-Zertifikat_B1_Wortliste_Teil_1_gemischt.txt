@@ -8974,14 +8974,12 @@ aufnehmen, nimmt auf, nahm auf, hat aufgenommen
 
 1. Wir haben Aneta in unseren Verein aufgenommen.
 2. Ich habe den Film im Urlaub aufgenommen.
-3. Wir mussten einen Kredit aufnehmen, um das Haus zu kaufen.
 
 
-to accept, to record, to take out
+to accept, to record
 
 1. We accepted Aneta into our club.
 2. I recorded the movie on vacation.
-3. We had to take out a loan to buy the house.
 
 
 
@@ -9130,7 +9128,7 @@ Our business is doing well. Our revenues were higher this month than last.
 
 grillen, grillt, grillte, hat gegrillt
 
-Heute wollen wir im Garten grillen/grillieren.
+Heute wollen wir im Garten grillen.
 
 
 to grill
