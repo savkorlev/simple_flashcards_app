@@ -9157,7 +9157,7 @@ bitten, bittet, bat, hat gebeten
 Darf ich Sie bitten, kurz zuzuhören?
 
 
-to ask, request
+to ask, to request
 
 May I ask you to listen for a moment?
 
