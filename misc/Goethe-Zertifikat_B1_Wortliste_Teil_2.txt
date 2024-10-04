@@ -8666,7 +8666,7 @@ Our team has won. We are happy about the victory.
 
 
 
-der Sieger, - / die Siegerin, -nen
+der Sieger, -; die Siegerin, -nen
 
 Wer hat gewonnen? Wie heißt die Siegerin?
 
@@ -14196,7 +14196,7 @@ I sold our old car.
 
 
 
-der Verkäufer, - / die Verkäuferin, -nen
+der Verkäufer, -; die Verkäuferin, -nen
 
 Die Verkäuferin wird Ihnen gleich helfen.
 
@@ -14314,7 +14314,7 @@ How much gasoline does your car consume?
 
 
 
-der Verbrecher, - / die Verbrecherin, -nen
+der Verbrecher, -; die Verbrecherin, -nen
 
 Die Polizei hat den Verbrecher verhaftet.
 

@@ -7175,7 +7175,7 @@ to sit down
 
 
 
-der Sieger, - / die Siegerin, -nen
+der Sieger, -; die Siegerin, -nen
 
 Wer hat gewonnen? Wie heißt die Siegerin?
 
@@ -9349,7 +9349,7 @@ frugal, economical
 
 
 
-der Verkäufer, - / die Verkäuferin, -nen
+der Verkäufer, -; die Verkäuferin, -nen
 
 Die Verkäuferin wird Ihnen gleich helfen.
 
@@ -10793,7 +10793,7 @@ I don't think the store is expensive.
 
 
 
-der Verbrecher, - / die Verbrecherin, -nen
+der Verbrecher, -; die Verbrecherin, -nen
 
 Die Polizei hat den Verbrecher verhaftet.
 

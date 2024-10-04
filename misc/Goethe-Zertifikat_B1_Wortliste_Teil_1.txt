@@ -12185,11 +12185,11 @@ Can you help me with my homework?
 
 
 
-die Hausfrau/der Hausmann
+der Hausmann; die Hausfrau
 
 Meine Frau ist Hausfrau und kümmert sich um die Kinder./Mein Mann ist Hausmann und kümmert sich um die Kinder.
 
-housewife/househusband
+househusband
 
 My wife is a housewife and takes care of the children./My husband is a househusband and takes care of the children.
 
