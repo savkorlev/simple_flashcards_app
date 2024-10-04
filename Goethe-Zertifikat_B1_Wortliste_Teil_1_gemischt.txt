@@ -9598,7 +9598,7 @@ sich bewerben, bewirbt sich, bewarb sich, hat sich beworben
 2. Ich habe mich als Kellner beworben.
 
 
-to apply
+to apply (somewhere)
 
 1. I applied for this position.
 2. I applied as a waiter.
@@ -9709,7 +9709,7 @@ anwenden, wendet an, wandte an, hat angewandt/angewendet
 Diese Salbe muss man dreimal am Tag anwenden.
 
 
-to apply
+to apply (something)
 
 This ointment must be applied three times a day.
 
