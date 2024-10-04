@@ -98,7 +98,7 @@ def exit_fullscreen(event=None):
     root.attributes("-fullscreen", False)
 
 # Load flashcards from the provided text file
-file_path = 'Goethe-Zertifikat_B1_Wortliste_Teil_1_gemischt.txt'
+file_path = 'Goethe-Zertifikat_B1_Wortliste_gemischt.txt'
 flashcards = load_flashcards(file_path)
 
 # Initialize the GUI application
