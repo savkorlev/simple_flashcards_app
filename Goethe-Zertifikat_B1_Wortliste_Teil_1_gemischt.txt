@@ -9424,14 +9424,14 @@ glass
 
 der Dienst
 
-1. Morgen habe ich Dienst.
-2. Als Krankenschwester habe ich oft Frühdienst.
+1. Als Krankenschwester habe ich oft Frühdienst.
+2. Morgen habe ich Dienst. Deshalb kann ich nicht kommen.
 
 
 service, duty, shift
 
-1. I have a shift tomorrow.
-2. As a nurse, I often have early shifts.
+1. As a nurse, I often have an early shift.
+2. I am on duty tomorrow. That's why I can't come.
 
 
 
@@ -9502,12 +9502,14 @@ mobile phone
 
 fließend
 
-Er spricht fließend Deutsch.
+1. Mein Kollege spricht fließend Deutsch.
+2. Zimmer mit fließendem Wasser.
 
 
-fluently
+fluent, running
 
-He speaks German fluently.
+1. My colleague speaks fluent German.
+2. Room with running water.
 
 
 
