@@ -10004,13 +10004,13 @@ Before the exam, I studied so much. Afterwards, I forgot a lot of it.
 
 das Angebot, -e
 
-1. Heute sind Sportschuhe im Angebot.
+1. Ich habe in der Zeitung ein paar günstige Wohnungsangebote gelesen.
 2. Der Käse ist heute im Angebot.
 
 
-offer
+offer, deal
 
-1. Sports shoes are on offer today.
+1. I read a few affordable apartment offers in the newspaper.
 2. The cheese is on sale today.
 
 
@@ -10042,14 +10042,14 @@ We go shopping once a week.
 
 dies-
 
-1. Was kostet diese Jacke hier?
-2. Welches Wort passt in diese Lücke?
+1. Wohin fährst du dieses Jahr in Urlaub?
+2. Welche Hose nehmen Sie? – Diese hier.
 
 
-this
+this, these
 
-1. How much does this jacket cost?
-2. Which word fits in this gap?
+1. Where are you going on vacation this year?
+2. Which pants are you taking? – These ones.
 
 
 
@@ -10118,12 +10118,14 @@ account
 
 der Arzt, ¨-e; die Ärztin, -nen
 
-Morgen habe ich einen Termin bei meiner Ärztin.
+1. Ich muss heute zum Arzt.
+2. Wann warst du beim Zahnarzt?
 
 
 doctor
 
-I have an appointment with my doctor tomorrow.
+1. I have to go to the doctor today.
+2. When were you at the dentist?
 
 
 
@@ -10166,14 +10168,14 @@ free
 
 der Bildschirm, -e
 
-Ich brauche einen größeren Bildschirm für meinen Computer.
-Wir haben einen Fernsehapparat mit einem sehr großen Bildschirm.
+1. Ich brauche einen größeren Bildschirm für meinen Computer.
+2. Wir haben einen Fernsehapparat mit einem sehr großen Bildschirm.
 
 
 screen
 
-I need a bigger screen for my computer.
-We have a television set with a very large screen.
+1. I need a bigger screen for my computer.
+2. We have a television set with a very large screen.
 
 
 
@@ -10312,12 +10314,12 @@ Dear Sir or Madam, ...
 
 
 
-die Ehefrau, -en; der Ehemann, ¨-er
+der Ehemann, ¨-er; die Ehefrau, -en
 
 Wie heißt Ihre Ehefrau mit Vornamen?
 
 
-wife; husband
+husband; wife
 
 What is your wife's first name?
 
