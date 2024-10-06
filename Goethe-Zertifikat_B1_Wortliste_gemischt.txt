@@ -10582,12 +10582,12 @@ You must register for this course in advance.
 
 das Diplom, -e
 
-Wenn du die Prüfung schaffst, bekommst du ein Diplom.
+Wo kann ich mein Diplom abholen?
 
 
 diploma
 
-If you pass the exam, you will receive a diploma.
+Where can I pick up my diploma?
 
 
 
@@ -10690,12 +10690,12 @@ I read all the ads, but the apartments are too expensive.
 
 fordern, fordert, forderte, hat gefordert
 
-Der Lehrer fordert mehr Disziplin.
+Die Arbeitnehmer fordern mehr Geld.
 
 
 to demand
 
-The teacher demands more discipline.
+The employees are demanding more money.
 
 
 
