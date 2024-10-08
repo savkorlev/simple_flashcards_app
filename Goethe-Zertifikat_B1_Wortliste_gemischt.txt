@@ -11654,14 +11654,14 @@ der Gruß, ¨-e
 
 1. Schönen Gruß an Ihren Mann.
 2. Viele Grüße an Ihre Frau.
-3. Mit freundlichen Grüßen
+3. Mit freundlichen Grüßen.
 
 
 greeting
 
 1. Best regards to your husband.
 2. Many greetings to your wife.
-3. With best regards
+3. With best regards.
 
 
 
