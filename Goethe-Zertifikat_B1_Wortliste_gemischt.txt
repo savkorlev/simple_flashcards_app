@@ -11946,14 +11946,16 @@ Is the lighter new?
 
 dienen, dient, diente, hat gedient
 
-1. Dieser Raum dient als Esszimmer.
-2. Solche Kontakte dienen der Verbesserung der internationalen Beziehungen.
+1. Solche Kontakte dienen der Verbesserung der internationalen Beziehungen.
+2. Dieser Raum dient als Aufenthaltsraum.
+3. Er hat der Firma viele Jahre lang gedient.
 
 
-to serve
+to serve, to be used as
 
-1. This room serves as a dining room.
-2. Such contacts serve to improve international relations.
+1. Such contacts serve to improve international relations.
+2. This room is used as a lounge.
+3. He served the company for many years.
 
 
 
