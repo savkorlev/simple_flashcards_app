@@ -12381,11 +12381,11 @@ der Fall, ¨-e
 3. Für den Fall, dass meine Mutter aus dem Krankenhaus kommt, bleibe ich zu Hause.
 
 
-case, fall
+case
 
 1. What would you do in this case?
-2. Be sure to call again beforehand.
-3. In case my mother is discharged from the hospital, I will stay home.
+2. In any case, call again beforehand.
+3. In case my mother comes out of the hospital, I will stay at home.
 
 
 
@@ -12563,12 +12563,12 @@ doch
 5. Ach, wenn doch schon Sonntag wäre!
 
 
-but, still, after all, however
+yet, after all, really, but, if only
 
 1. Don't you eat meat? - Yes, sometimes I do.
-2. I've changed my mind. I will still come to the city.
-3. You are still coming this evening, right?
-4. Why don't you ask Mr. Müller? He's a computer specialist.
+2. I’ve changed my mind. I’m coming to the city after all.
+3. You are coming tonight, aren’t you?
+4. Just ask Mr. Müller, he’s a computer specialist.
 5. Oh, if only it were already Sunday!
 
 
