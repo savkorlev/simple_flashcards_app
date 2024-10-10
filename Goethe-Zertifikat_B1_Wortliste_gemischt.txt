@@ -12234,14 +12234,14 @@ ice
 
 empfangen, empfängt, empfing, hat empfangen
 
-Wir können mit unserem Fernseher über 30 Programme empfangen.
-Die Gäste wurden sehr herzlich empfangen.
+1. Wir können mit unserem Fernseher über 30 Programme empfangen.
+2. Die Gäste wurden sehr herzlich empfangen.
 
 
 to receive, to welcome
 
-We can receive over 30 channels on our TV.
-The guests were warmly welcomed.
+1. We can receive over 30 channels on our TV.
+2. The guests were warmly welcomed.
 
 
 
@@ -12324,12 +12324,14 @@ to feel
 
 folgen, folgt, folgte, ist gefolgt
 
-Bitte folgen Sie mir.
+1. Es folgen die Nachrichten.
+2. Folgen Sie der Reiseleiterin.
 
 
 to follow
 
-Please follow me.
+1. The news will follow.
+2. Follow the tour guide.
 
 
 
