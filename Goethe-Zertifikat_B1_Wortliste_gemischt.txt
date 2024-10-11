@@ -12828,7 +12828,7 @@ freundlich
 
 1. Er hat uns sehr freundlich begrüßt.
 2. Der Mann ist sehr freundlich zu mir.
-3. Mit freundlichen Grüßen
+3. Mit freundlichen Grüßen.
 
 
 friendly
@@ -12878,7 +12878,7 @@ Mr. Müller will be back shortly. Meanwhile, you can wait in his office.
 
 
 
-der Aufzug, ¨-e (D, A) → Lift
+der Aufzug, ¨-e
 
 Im Büro ist leider der Aufzug kaputt.
 
@@ -12908,7 +12908,7 @@ beschäftigen, beschäftigt, beschäftigte, hat beschäftigt
 2. Seit wann sind Sie bei dieser Firma beschäftigt?
 
 
-to occupy, employ
+to occupy, to employ
 
 1. What were you occupied with at work?
 2. How long have you been employed by this company?
