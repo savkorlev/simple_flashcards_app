@@ -12843,13 +12843,13 @@ friendly
 arm
 
 1. Die Regierung hilft armen Nachbarländern.
-2. Ich hätte gerne 100 g fettarmen Käse.
+2. Ich hätte gerne 200 g fettarmen Käse.
 
 
 poor, low-fat
 
 1. The government helps poor neighboring countries.
-2. I would like 100 g of low-fat cheese.
+2. I would like 200 g of low-fat cheese.
 
 
 
