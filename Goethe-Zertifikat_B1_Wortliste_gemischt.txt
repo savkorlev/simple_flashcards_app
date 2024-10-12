@@ -13686,14 +13686,12 @@ Our train departed on time.
 
 die Folge, -n
 
-1. Die Krankheit war eine Folge von Stress.
-2. Ich habe gestern die neue Folge der Serie gesehen.
+Die Folgen des Unfalls waren schlimm.
 
 
-consequence, episode
+consequence, result
 
-1. The illness was a consequence of stress.
-2. I watched the new episode of the series yesterday.
+The consequences of the accident were severe.
 
 
 
