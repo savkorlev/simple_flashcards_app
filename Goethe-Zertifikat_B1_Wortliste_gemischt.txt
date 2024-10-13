@@ -14280,7 +14280,7 @@ sich bemühen, bemüht, bemühte, hat bemüht
 2. Ich werde mich um einen Termin bemühen.
 
 
-to strive, make an effort
+to strive, to make an effort
 
 1. He made a great effort to cook something good.
 2. I will try to get an appointment.
@@ -14294,7 +14294,7 @@ der Held, -en; die Heldin, -nen
 2. Sie ist die Heldin des Tages.
 
 
-hero; heroine
+hero
 
 1. He likes to play the hero.
 2. She is the heroine of the day.
