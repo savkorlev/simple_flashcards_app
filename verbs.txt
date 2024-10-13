@@ -73,3 +73,929 @@ to move (house)
 sich umziehen, zieht sich um, zog sich um, hat sich umgezogen
 to change clothes
 
+
+
+
+behindern, behindert, behinderte, hat behindert
+to hinder, to impede
+
+verhindern, verhindert, verhinderte, hat verhindert
+to prevent
+
+
+
+
+kochen, kocht, kochte, hat gekocht
+to cook, to boil
+
+
+
+
+brennen, brennt, brannte, hat gebrannt
+to burn
+
+(sich) verbrennen, verbrennt, verbrannte, hat verbrannt
+to burn, to burn oneself
+
+
+
+
+sich amüsieren, amüsiert sich, amüsierte sich, hat sich amüsiert
+to have fun
+
+
+
+
+lassen, lässt, ließ, hat gelassen
+to leave, to let
+
+hinterlassen, hinterlässt, hinterließ, hat hinterlassen
+to leave behind
+
+entlassen, entlässt, entließ, hat entlassen
+to discharge, to dismiss
+
+sich etwas gefallen lassen, lässt sich etwas gefallen, ließ sich etwas gefallen, hat sich etwas gefallen lassen
+to put up with something
+
+unterlassen, unterlässt, unterließ, hat unterlassen
+to refrain from
+
+sich scheiden lassen, lässt sich scheiden, ließ sich scheiden, hat sich scheiden lassen
+to get divorced
+
+verlassen, verlässt, verließ, hat verlassen
+to leave, to rely on
+
+
+
+
+enttäuschen, enttäuscht, enttäuschte, hat enttäuscht
+to disappoint
+
+
+
+
+klettern, klettert, kletterte, ist geklettert
+to climb
+
+
+
+
+fehlen, fehlt, fehlte, hat gefehlt
+to be missing, to lack
+
+empfehlen, empfiehlt, empfahl, hat empfohlen
+to recommend
+
+
+
+
+laufen, läuft, lief, ist gelaufen
+to run
+
+sich verlaufen, verläuft sich, verlief sich, hat sich verlaufen
+to get lost
+
+
+
+
+sprechen, spricht, sprach, hat gesprochen
+to speak, to talk
+
+besprechen, bespricht, besprach, hat besprochen
+to discuss
+
+aussprechen, spricht aus, sprach aus, hat ausgesprochen
+to pronounce
+
+ansprechen, spricht an, sprach an, hat angesprochen
+to speak to
+
+versprechen, verspricht, versprach, hat versprochen
+to promise
+
+widersprechen, widerspricht, widersprach, hat widersprochen
+to contradict
+
+
+
+
+(herunter-)laden, lädt herunter, lud herunter, hat heruntergeladen
+to download
+
+hochladen, lädt hoch, lud hoch, hat hochgeladen
+to upload
+
+einladen, lädt ein, lud ein, hat eingeladen
+to invite
+
+aufladen, lädt auf, lud auf, hat aufgeladen
+to charge
+
+
+
+
+bringen, bringt, brachte, hat gebracht
+to bring
+
+verbringen, verbringt, verbrachte, hat verbracht
+to spend (time)
+
+
+
+
+tragen, trägt, trug, hat getragen
+to carry, to wear, to bear
+
+eintragen, trägt ein, trug ein, hat eingetragen
+to enter, to register
+
+beantragen, beantragt, beantragte, hat beantragt
+to apply for
+
+
+
+
+kleben, klebt, klebte, hat geklebt
+to stick, to glue
+
+
+
+
+klingen, klingt, klang, hat geklungen
+to sound
+
+
+
+
+hängen, hängt, hing/hängte, hat gehangen/gehängt
+to hang
+
+abhängen (von), hängt ab, hing ab, hat abgehangen
+to depend (on)
+
+
+
+
+fließen, fließt, floss, ist geflossen
+to flow
+
+
+
+
+holen, holt, holte, hat geholt
+to fetch, to get
+
+abholen, holt ab, holte ab, hat abgeholt
+to pick up
+
+sich erholen, erholt sich, erholte sich, hat sich erholt
+to recover, to rest
+
+wiederholen, wiederholt, wiederholte, hat wiederholt
+to repeat
+
+überholen, überholt, überholte, hat überholt
+to overtake, to pass
+
+
+
+
+treten, tritt, trat, hat/ist getreten
+to step, to kick
+
+eintreten, tritt ein, trat ein, ist eingetreten
+to join, to enter
+
+auftreten, tritt auf, trat auf, ist aufgetreten
+to perform
+
+vertreten, vertritt, vertrat, hat vertreten
+to represent, to stand in for
+
+
+
+
+landen, landet, landete, ist gelandet
+to land
+
+
+
+
+(sich) setzen, setzt, setzte, hat gesetzt
+to sit down
+
+festsetzen, setzt fest, setzte fest, hat festgesetzt
+to set, to determine
+
+einsetzen, setzt ein, setzte ein, hat eingesetzt
+to appoint, to advocate
+
+fortsetzen, setzt fort, setzte fort, hat fortgesetzt
+to continue
+
+besetzen, besetzt, besetzte, hat besetzt
+to occupy, to be busy
+
+ersetzen, ersetzt, ersetzte, hat ersetzt
+to replace, to reimburse
+
+übersetzen, übersetzt, übersetzte, hat übersetzt
+to translate
+
+
+
+
+drucken, druckt, druckte, hat gedruckt
+to print
+
+ausdrucken, druckt aus, druckte aus, hat ausgedruckt
+to print out
+
+
+
+
+führen, führt, führte, hat geführt
+to lead, to guide, to manage
+
+einführen, führt ein, führte ein, hat eingeführt
+to import, to introduce
+
+aufführen, führt auf, führte auf, hat aufgeführt
+to perform
+
+
+
+
+heben, hebt, hob, hat gehoben
+to lift, to raise
+
+abheben, hebt ab, hob ab, hat abgehoben
+to withdraw
+
+aufheben, hebt auf, hob auf, hat aufgehoben
+to pick up, to keep
+
+
+
+
+hören, hört, hörte, hat gehört
+to hear
+
+gehören, gehört, gehörte, hat gehört
+to belong
+
+aufhören, hört auf, hörte auf, hat aufgehört
+to stop, to end
+
+zuhören, hört zu, hörte zu, hat zugehört
+to listen
+
+
+
+
+buchen, bucht, buchte, hat gebucht
+to book
+
+
+
+
+lächeln, lächelt, lächelte, hat gelächelt
+to smile
+
+
+
+
+halten, hält, hielt, hat gehalten
+to hold, to stop, to keep
+
+behalten, behält, behielt, hat behalten
+to keep
+
+festhalten, hält fest, hielt fest, hat festgehalten
+to hold on, to hold
+
+erhalten, erhält, erhielt, hat erhalten
+to receive
+
+aufhalten, hält auf, hielt auf, hat aufgehalten
+to stay, to hold, to hold up
+
+enthalten, enthält, enthielt, hat enthalten
+to contain
+
+sich verhalten, verhält sich, verhielt sich, hat sich verhalten
+to behave
+
+(sich) unterhalten, unterhält, unterhielt, hat unterhalten
+to converse, to entertain
+
+
+
+
+gießen, gießt, goss, gegossen
+to water, to pour
+
+
+
+
+sich beteiligen, beteiligt sich, beteiligte sich, hat sich beteiligt
+to participate
+
+
+
+
+duzen, duzt, duzte, hat geduzt
+to address with "du"
+
+
+
+
+zeigen, zeigt, zeigte, hat gezeigt
+to show
+
+anzeigen, zeigt an, zeigte an, hat angezeigt
+to report
+
+
+
+
+heißen, heißt, hieß, hat geheißen
+to be called, to mean
+
+
+
+
+stellen, stellt, stellte, hat gestellt
+to put, to place, to set
+
+feststellen, stellt fest, stellte fest, hat festgestellt
+to determine, to find out
+
+bestellen, bestellt, bestellte, hat bestellt
+to order, to appoint, to convey
+
+erstellen, erstellt, erstellte, hat erstellt
+to create
+
+anstellen, stellt an, stellte an, hat angestellt
+to turn on, to employ, to line up
+
+herstellen, stellt her, stellte her, hat hergestellt
+to produce
+
+darstellen, stellt dar, stellte dar, hat dargestellt
+to portray, to depict, to represent
+
+einstellen, stellt ein, stellte ein, hat eingestellt
+to hire, to adjust
+
+ausstellen, stellt aus, stellte aus, hat ausgestellt
+to exhibit, to issue
+
+(sich) vorstellen, stellt vor, stellte vor, hat vorgestellt
+to imagine, to introduce
+
+
+
+
+kommen, kommt, kam, ist gekommen
+to come
+
+zurechtkommen, kommt zurecht, kam zurecht, ist zurechtgekommen
+to manage, to cope
+
+vorkommen, kommt vor, kam vor, ist vorgekommen
+to happen, to occur
+
+ankommen, kommt an, kam an, ist angekommen
+to arrive
+
+
+
+
+haben, hat, hatte, hat gehabt
+to have
+
+anhaben, hat an, hatte an, hat angehabt
+to wear
+
+vorhaben, hat vor, hatte vor, hat vorgehabt
+to plan, to have planned
+
+
+
+
+grüßen, grüßt, grüßte, hat gegrüßt
+to greet
+
+begrüßen, begrüßt, begrüßte, hat begrüßt
+to greet
+
+
+
+
+glauben, glaubt, glaubte, hat geglaubt
+to believe
+
+
+
+
+schalten, schaltet, schaltete, hat geschaltet
+to switch, to shift gears
+
+einschalten, schaltet ein, schaltete ein, hat eingeschaltet
+to switch on, to turn on
+
+
+
+
+fangen, fängt, fing, hat gefangen
+to catch
+
+empfangen, empfängt, empfing, hat empfangen
+to receive, to welcome
+
+anfangen, fängt an, fing an, hat angefangen
+to start, to begin
+
+
+
+
+gewöhnen, gewöhnt, gewöhnte, hat gewöhnt/ist gewöhnt
+to get used to
+
+
+
+
+beißen, beißt, biss, hat gebissen
+to bite
+
+
+
+
+nehmen, nimmt, nahm, hat genommen
+to take
+
+festnehmen, nimmt fest, nahm fest, hat festgenommen
+to arrest
+
+einnehmen, nimmt ein, nahm ein, hat eingenommen
+to take (medicine)
+
+annehmen, nimmt an, nahm an, hat angenommen
+to accept, to assume
+
+aufnehmen, nimmt auf, nahm auf, hat aufgenommen
+to accept, to record
+
+abnehmen, nimmt ab, nahm ab, hat abgenommen
+to take off, to lose weight
+
+unternehmen, unternimmt, unternahm, hat unternommen
+to undertake, to do
+
+teilnehmen, nimmt teil, nahm teil, hat teilgenommen
+to participate
+
+übernehmen, übernimmt, übernahm, hat übernommen
+to take over
+
+zunehmen, nimmt zu, nahm zu, hat zugenommen
+to gain weight
+
+
+
+
+hupen, hupt, hupte, hat gehupt
+to honk
+
+
+
+
+entfernen, entfernt, entfernte, hat entfernt
+to remove, to be away
+
+
+
+
+wählen, wählt, wählte, hat gewählt
+to choose, to dial, to vote
+
+auswählen, wählt aus, wählte aus, hat ausgewählt
+to select
+
+
+
+
+hinweisen, weist hin, wies hin, hat hingewiesen
+to point out, to indicate
+
+beweisen, beweist, bewies, hat bewiesen
+to prove
+
+überweisen, überweist, überwies, hat überwiesen
+to transfer, to refer
+
+
+
+
+dauern, dauert, dauerte, hat gedauert
+to last
+
+
+
+
+sehen, sieht, sah, hat gesehen
+to see
+
+ansehen, sieht an, sah an, hat angesehen
+to look at
+
+aussehen, sieht aus, sah aus, hat ausgesehen
+to look, to appear
+
+fernsehen, sieht fern, sah fern, hat ferngesehen
+to watch TV
+
+
+
+
+greifen, greift, griff, hat gegriffen
+to grab, to seize
+
+
+
+
+beginnen, beginnt, begann, hat begonnen
+to begin, to start
+
+
+
+
+hageln, hagelt, hagelte, hat gehagelt
+to hail
+
+
+
+
+beeinflussen, beeinflusst, beeinflusste, hat beeinflusst
+to influence
+
+
+
+
+finanzieren, finanziert, finanzierte, hat finanziert
+to finance
+
+
+
+
+genehmigen, genehmigt, genehmigte, hat genehmigt
+to approve
+
+
+
+
+(sich) waschen, wäscht, wusch, hat gewaschen
+to wash
+
+abwaschen, wäscht ab, wusch ab, hat abgewaschen
+to wash up
+
+
+
+
+fördern, fördert, förderte, hat gefördert
+to promote, to support
+
+
+
+
+sich einigen, einigt sich, einigte sich, hat sich geeinigt
+to agree, to come to an agreement
+
+
+
+
+reinigen, reinigt, reinigte, hat gereinigt
+to clean
+
+
+
+
+sagen, sagt, sagte, hat gesagt
+to say
+
+absagen, sagt ab, sagte ab, hat abgesagt
+to cancel
+
+zusagen, sagt zu, sagte zu, hat zugesagt
+to accept
+
+
+
+
+geben, gibt, gab, hat gegeben
+to give
+
+aufgeben, gibt auf, gab auf, hat aufgegeben
+to post, to give up
+
+bekannt geben, gibt bekannt, gab bekannt, hat bekannt gegeben
+to announce
+
+angeben, gibt an, gab an, hat angegeben
+to specify
+
+ausgeben, gibt aus, gab aus, hat ausgegeben
+to spend (money)
+
+
+
+
+drücken, drückt, drückte, hat gedrückt
+to press, to push
+
+
+
+
+abonnieren, abonniert, abonnierte, hat abonniert
+to subscribe
+
+
+
+
+begegnen, begegnet, begegnete, ist begegnet
+to meet
+
+
+
+
+beruhigen, beruhigt, beruhigte, hat beruhigt
+to calm, to reassure
+
+
+
+
+aufwachen, wacht auf, wachte auf, ist aufgewacht
+to wake up
+
+
+
+
+sich konzentrieren, konzentriert sich, konzentrierte sich, hat sich konzentriert
+to concentrate
+
+
+
+
+fordern, fordert, forderte, hat gefordert
+to demand
+
+auffordern, fordert auf, forderte auf, hat aufgefordert
+to request, to invite
+
+erfordern, erfordert, erforderte, hat erfordert
+to require
+
+
+
+
+aufräumen, räumt auf, räumte auf, hat aufgeräumt
+to tidy up
+
+
+
+
+träumen, träumt, träumte, hat geträumt
+to dream
+
+
+
+
+sich beschweren, beschwert sich, beschwerte sich, hat sich beschwert
+to complain
+
+
+
+
+gründen, gründet, gründete, hat gegründet
+to found, to establish
+
+begründen, begründet, begründete, hat begründet
+to justify
+
+
+
+
+klagen, klagt, klagte, hat geklagt
+to complain
+
+
+
+
+legen, legt, legte, hat gelegt
+to lay, to put
+
+festlegen, legt fest, legte fest, hat festgelegt
+to determine, to set
+
+überlegen, überlegt, überlegte, hat überlegt
+to consider, to think about
+
+
+
+
+pflegen, pflegt, pflegte, hat gepflegt
+to care for
+
+verpflegen, verpflegt, verpflegte, hat verpflegt
+to provide food
+
+
+
+
+berichten, berichtet, berichtete, hat berichtet
+to report
+
+unterrichten, unterrichtet, unterrichtete, hat unterrichtet
+to teach
+
+ausrichten, richtet aus, richtete aus, hat ausgerichtet
+to relay a message
+
+einrichten, richtet ein, richtete ein, hat eingerichtet
+to furnish, to set up
+
+
+
+
+buchstabieren, buchstabiert, buchstabierte, hat buchstabiert
+to spell
+
+
+
+
+lachen, lacht, lachte, hat gelacht
+to laugh
+
+
+
+
+fahren, fährt, fuhr, ist/hat gefahren
+to drive, to travel
+
+erfahren, erfährt, erfuhr, hat erfahren
+to learn, to find out
+
+abfahren, fährt ab, fuhr ab, ist abgefahren
+to depart
+
+(herunter-)fahren, fährt herunter, fuhr herunter, hat heruntergefahren
+to shut down, to drive down
+
+losfahren, fährt los, fuhr los, ist losgefahren
+to set off, to depart
+
+überfahren, überfährt, überfuhr, hat überfahren
+to run over
+
+
+
+
+frieren, friert, fror, hat gefroren
+to freeze
+
+
+
+
+heizen, heizt, heizte, hat geheizt
+to heat
+
+
+
+
+stehen, steht, stand, hat/ist gestanden
+to stand, to be
+
+aufstehen, steht auf, stand auf, ist aufgestanden
+to get up
+
+entstehen, entsteht, entstand, ist entstanden
+to arise, to develop
+
+bestehen, besteht, bestand, hat bestanden
+to consist, to pass
+
+feststehen, steht fest, stand fest, ist festgestanden
+to be certain, to be fixed
+
+(sich) verstehen, versteht, verstand, hat verstanden
+to understand, to get along
+
+
+
+
+behaupten, behauptet, behauptete, hat behauptet
+to claim
+
+
+
+
+merken, merkt, merkte, hat gemerkt
+to notice, to remember
+
+bemerken, bemerkt, bemerkte, hat bemerkt
+to notice
+
+
+
+
+essen, isst, aß, hat gegessen
+to eat
+
+
+
+
+fressen, frisst, fraß, hat gefressen
+to eat (used for animals)
+
+
+
+
+messen, misst, maß, hat gemessen
+to measure
+
+
+
+
+vergessen, vergisst, vergaß, hat vergessen
+to forget
+
+
+
+
+integrieren, integriert, integrierte, hat integriert
+to integrate
+
+
+
+
+bluten, blutet, blutete, hat geblutet
+to bleed
+
+
+
+
+suchen, sucht, suchte, hat gesucht
+to search, to look for
+
+besuchen, besucht, besuchte, hat besucht
+to visit, to attend
+
+(sich etwas) aussuchen, sucht aus, suchte aus, hat ausgesucht
+to choose, to pick
+
+untersuchen, untersucht, untersuchte, hat untersucht
+to examine
+
+versuchen, versucht, versuchte, hat versucht
+to try
+
+
+
+
+heiraten, heiratet, heiratete, hat geheiratet
+to marry
+
+
+
+
+kritisieren, kritisiert, kritisierte, hat kritisiert
+to criticize
+
+
+
+
+(sich) ärgern, ärgert, ärgerte, hat geärgert
+to annoy
+
+
+
+
+schreiben, schreibt, schrieb, hat geschrieben
+to write
+
+abschreiben, schreibt ab, schrieb ab, hat abgeschrieben
+to copy
+
+beschreiben, beschreibt, beschrieb, hat beschrieben
+to describe
+
+verschreiben, verschreibt, verschrieb, hat verschrieben
+to prescribe
+
+unterschreiben, unterschreibt, unterschrieb, hat unterschrieben
+to sign
