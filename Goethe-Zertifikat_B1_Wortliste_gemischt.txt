@@ -13832,7 +13832,7 @@ die Anlage, -n
 2. In der Anlage der E-Mail finden Sie meinen Lebenslauf.
 
 
-equipment, the attachment
+equipment, attachment
 
 1. My stereo system is broken.
 2. In the email attachment, you will find my resume.
@@ -13842,12 +13842,12 @@ equipment, the attachment
 
 diesmal
 
-Diesmal hat er keine Zeit.
+Die letzten Spiele haben wir verloren. Diesmal haben wir zum Glück gewonnen.
 
 
 this time
 
-This time he doesn't have time.
+We lost the last games. This time, fortunately, we won.
 
 
 
@@ -13866,14 +13866,14 @@ The trees are already blooming. It's spring.
 
 funktionieren, funktioniert, funktionierte, hat funktioniert
 
-Können Sie mir bitte mal zeigen, wie der Automat funktioniert?
-Unsere Ehe funktioniert nicht mehr.
+1. Können Sie mir bitte mal zeigen, wie der Automat funktioniert?
+2. Unsere Ehe funktioniert nicht mehr.
 
 
 to function, to work
 
-Can you please show me how the machine works?
-Our marriage no longer works.
+1. Can you please show me how the machine works?
+2. Our marriage no longer works.
 
 
 
@@ -14118,7 +14118,7 @@ coffee
 
 die Anrede, -n
 
-Du darfst im Brief die Anrede nicht vergessen
+Du darfst im Brief die Anrede nicht vergessen.
 
 
 salutation 
