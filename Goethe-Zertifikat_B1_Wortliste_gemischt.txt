@@ -33919,9 +33919,9 @@ wütend
 Warum bist du so wütend?
 
 
-wütend
-(Warum bist du so wütend?)
+angry
 
+Why are you so angry?
 
 
 
@@ -35274,6 +35274,7 @@ verbinden, verbindet, verband, hat verbunden
 
 
 to bandage, to connect
+
 1. We have to bandage the wound immediately.
 2. You are connected to the wrong person! This is Müller, not Meyer.
 
@@ -36376,6 +36377,7 @@ Testen Sie unsere Angebote kostenlos.
 
 
 to test
+
 Test our offers for free.
 
 
