@@ -37,9 +37,6 @@ to be canceled, to fail
 auffallen, fällt auf, fiel auf, ist aufgefallen
 to notice
 
-sich etwas gefallen lassen, lässt sich etwas gefallen, ließ sich etwas gefallen, hat sich etwas gefallen lassen
-to put up with something
-
 einfallen, fällt ein, fiel ein, ist eingefallen
 to remember, to come to mind
 
@@ -999,3 +996,674 @@ to prescribe
 
 unterschreiben, unterschreibt, unterschrieb, hat unterschrieben
 to sign
+
+
+
+
+leben, lebt, lebte, hat gelebt
+to live
+
+erleben, erlebt, erlebte, hat erlebt
+to experience
+
+
+
+
+bleiben, bleibt, blieb, ist geblieben
+to stay, to remain
+
+
+
+
+achten, achtet, achtete, hat geachtet (auf)
+to pay attention
+
+beachten, beachtet, beachtete, hat beachtet
+to pay attention to
+
+beobachten, beobachtet, beobachtete, hat beobachtet
+to observe, watch
+
+
+
+
+übernachten, übernachtet, übernachtete, hat übernachtet
+to spend the night
+
+
+
+
+schließen, schließt, schloss, hat geschlossen
+to close, to lock
+
+anschließen, schließt an, schloss an, hat angeschlossen
+to connect
+
+sich entschließen, entschließt sich, entschloss sich, hat sich entschlossen
+to decide
+
+ausschließen, schließt aus, schloss aus, hat ausgeschlossen
+to exclude, to rule out
+
+beschließen, beschließt, beschloss, hat beschlossen
+to decide, to resolve
+
+
+
+
+analysieren, analysiert, analysierte, hat analysiert
+to analyze
+
+
+
+
+korrigieren, korrigiert, korrigierte, hat korrigiert
+to correct
+
+
+
+
+interessieren, interessiert, interessierte, hat interessiert
+to interest
+
+
+
+
+handeln, handelt, handelte, hat gehandelt
+to trade, to act, to bargain
+
+behandeln, behandelt, behandelte, hat behandelt
+to treat
+
+
+
+
+sich freuen, freut sich, freute sich, hat sich gefreut
+to be glad, to be happy, to look forward
+
+
+
+
+klingeln, klingelt, klingelte, hat geklingelt
+to ring
+
+
+
+
+passen, passt, passte, hat gepasst
+to fit, to suit, to match
+
+aufpassen, passt auf, passte auf, hat aufgepasst
+to pay attention, to look after
+
+verpassen, verpasst, verpasste, hat verpasst
+to miss
+
+
+
+
+backen, bäckt/backt, backte, hat gebacken
+to bake
+
+
+
+
+sich irren, irrt sich, irrte sich, hat sich geirrt
+to be wrong, to be mistaken
+
+
+
+
+betreuen, betreut, betreute, hat betreut
+to look after
+
+
+
+
+
+entscheiden, entscheidet, entschied, hat entschieden
+to decide
+
+unterscheiden, unterscheidet, unterschied, hat unterschieden
+to distinguish
+
+
+
+
+erlauben, erlaubt, erlaubte, hat erlaubt
+to allow
+
+
+
+
+steigen, steigt, stieg, ist gestiegen
+to rise, to climb
+
+einsteigen, steigt ein, stieg ein, ist eingestiegen
+to get in, to board
+
+umsteigen, steigt um, stieg um, ist umgestiegen
+to change (transport)
+
+
+
+
+brauchen, braucht, brauchte, hat gebraucht
+to need
+
+gebrauchen, gebraucht, gebrauchte, hat gebraucht
+to use
+
+verbrauchen, verbraucht, verbrauchte, hat verbraucht
+to consume
+
+
+
+
+eilen, eilt, eilte, hat/ist geeilt
+to hurry
+
+sich beeilen, beeilt sich, beeilte sich, hat sich beeilt
+to hurry
+
+
+
+
+teilen, teilt, teilte, hat geteilt
+to share, to divide
+
+verurteilen, verurteilt, verurteilte, hat verurteilt
+to convict, to sentence
+
+verteilen, verteilt, verteilte, hat verteilt
+to distribute
+
+mitteilen, teilt mit, teilte mit, hat mitgeteilt
+to inform, to share
+
+
+
+
+beantragen, beantragt, beantragte, hat beantragt
+to apply for
+
+
+
+
+gelingen, gelingt, gelang, ist gelungen
+to succeed
+
+
+
+
+entschuldigen, entschuldigt, entschuldigte, hat entschuldigt
+to excuse, to apologize
+
+
+
+
+fliegen, fliegt, flog, ist geflogen
+to fly
+
+
+
+
+leiten, leitet, leitete, hat geleitet
+to lead, to direct
+
+begleiten, begleitet, begleitete, hat begleitet
+to accompany
+
+
+
+
+fragen, fragt, fragte, hat gefragt
+to ask
+
+
+
+
+einfügen, fügt ein, fügte ein, hat eingefügt
+to insert, to paste
+
+
+
+
+drehen, dreht, drehte, hat gedreht
+to turn, to revolve, to spin
+
+(sich) umdrehen, dreht um, drehte um, hat umgedreht
+to turn around, to turn over
+
+
+
+
+dienen, dient, diente, hat gedient
+to serve, to be used as
+
+verdienen, verdient, verdiente, hat verdient
+to earn, to deserve
+
+bedienen, bedient, bediente, hat bedient
+to serve, to operate
+
+
+
+
+packen, packt, packte, hat gepackt
+to pack
+
+einpacken, packt ein, packte ein, hat eingepackt
+to pack, to wrap
+
+verpacken, verpackt, verpackte, hat verpackt
+to pack
+
+
+
+
+schaffen, schafft, schaffte, hat geschafft
+to manage, to accomplish
+
+anschaffen, schafft an, schaffte an, hat angeschafft
+to purchase
+
+
+
+
+kündigen, kündigt, kündigte, hat gekündigt
+to resign, to cancel
+
+ankündigen, kündigt an, kündigte an, hat angekündigt
+to announce
+
+
+
+
+sorgen, sorgt, sorgte, hat gesorgt
+to take care of, to ensure
+
+entsorgen, entsorgt, entsorgte, hat entsorgt
+to dispose of
+
+besorgen, besorgt, besorgte, hat besorgt
+to get, to obtain
+
+
+
+
+enden, endet, endete, hat geendet
+to end
+
+beenden, beendet, beendete, hat beendet
+to finish
+
+
+
+
+senden, sendet, sendete/sandte, hat gesendet/gesandt
+to send
+
+
+
+
+wenden, wendet, wendete, hat gewendet
+to turn around
+
+anwenden, wendet an, wandte an, hat angewandt/angewendet
+to apply (something)
+
+verwenden, verwendet, verwendete, hat verwendet
+to use
+
+
+
+
+zahlen, zahlt, zahlte, hat gezahlt
+to pay
+
+bezahlen, bezahlt, bezahlte, hat bezahlt
+to pay
+
+einzahlen, zahlt ein, zahlte ein, hat eingezahlt
+to deposit
+
+
+
+
+beleidigen, beleidigt, beleidigte, hat beleidigt
+to insult, to offend
+
+
+
+
+danken, dankt, dankte, hat gedankt
+to thank
+
+sich bedanken, bedankt sich, bedankte sich, hat sich bedankt
+to thank
+
+
+
+
+fliehen, flieht, floh, ist geflohen
+to flee, to escape
+
+
+
+
+erleichtern, erleichtert, erleichterte, hat erleichtert
+to relieve, to make easier
+
+
+
+
+erinnern, erinnert, erinnerte, hat erinnert
+to remember, to remind
+
+
+
+
+dekorieren, dekoriert, dekorierte, hat dekoriert
+to decorate
+
+
+
+
+grillen, grillt, grillte, hat gegrillt
+to grill
+
+
+
+
+
+bitten, bittet, bat, hat gebeten
+to ask, to request
+
+
+
+
+
+bieten, bietet, bot, hat geboten
+to offer
+
+verbieten, verbietet, verbot, hat verboten
+to forbid, to prohibit
+
+anbieten, bietet an, bot an, hat angeboten
+to offer
+
+
+
+
+installieren, installiert, installierte, hat installiert
+to install
+
+
+
+
+konsumieren, konsumiert, konsumierte, hat konsumiert
+to consume
+
+
+
+
+gewinnen, gewinnt, gewann, hat gewonnen
+to win
+
+
+
+
+kämpfen, kämpft, kämpfte, hat gekämpft
+to fight
+
+
+
+
+sich bewerben, bewirbt sich, bewarb sich, hat sich beworben
+to apply (somewhere)
+
+
+
+
+klären, klärt, klärte, hat geklärt
+to clarify, to resolve
+
+erklären, erklärt, erklärte, hat erklärt
+to explain
+
+
+
+
+frühstücken, frühstückt, frühstückte, hat gefrühstückt
+to have breakfast
+
+
+
+
+sich erkälten, erkältet sich, erkältete sich, hat sich erkältet
+to catch a cold
+
+
+
+
+(sich etwas) kaufen, kauft, kaufte, hat gekauft
+to buy (oneself something)
+
+verkaufen, verkauft, verkaufte, hat verkauft
+to sell
+
+einkaufen, kauft ein, kaufte ein, hat eingekauft
+to shop, to buy groceries
+
+
+
+
+rechnen, rechnet, rechnete, hat gerechnet
+to calculate, to reckon
+
+berechnen, berechnet, berechnete, hat berechnet
+to calculate
+
+
+
+
+sich eignen, eignet sich, eignete sich, hat sich geeignet
+to be suitable
+
+sich ereignen, ereignet sich, ereignete sich, hat sich ereignet
+to occur, to happen
+
+
+
+
+denken, denkt, dachte, hat gedacht
+to think
+
+nachdenken, denkt nach, dachte nach, hat nachgedacht
+to think about, to reflect
+
+
+
+
+sitzen, sitzt, saß, hat/ist gesessen
+to sit
+
+besitzen, besitzt, besaß, hat besessen
+to own
+
+
+
+
+kontrollieren, kontrolliert, kontrollierte, hat kontrolliert
+to check, to control
+
+
+
+
+fühlen, fühlt, fühlte, hat gefühlt
+to feel
+
+
+
+
+
+helfen, hilft, half, hat geholfen
+to help
+
+
+
+
+basteln, bastelt, bastelte, hat gebastelt
+to do crafts
+
+
+
+
+melden, meldet, meldete, hat gemeldet
+to report, to get in touch
+
+anmelden, meldet an, meldete an, hat angemeldet
+to register
+
+
+
+
+feiern, feiert, feierte, hat gefeiert
+to celebrate
+
+
+
+
+entdecken, entdeckt, entdeckte, hat entdeckt
+to discover
+
+
+
+
+arbeiten, arbeitet, arbeitete, hat gearbeitet
+to work
+
+
+
+
+informieren, informiert, informierte, hat informiert
+to inform
+
+
+
+
+anschnallen, schnallt an, schnallte an, hat angeschnallt
+to buckle up
+
+
+
+
+klappen, klappt, klappte, hat geklappt
+to work out, to go well
+
+
+
+
+gratulieren, gratuliert, gratulierte, hat gratuliert
+to congratulate
+
+
+
+
+hoffen, hofft, hoffte, hat gehofft
+to hope
+
+
+
+
+bremsen, bremst, bremste, hat gebremst
+to brake
+
+
+
+
+stimmen, stimmt, stimmte, hat gestimmt
+to be correct
+
+zustimmen, stimmt zu, stimmte zu, hat zugestimmt
+to agree
+
+abstimmen, stimmt ab, stimmte ab, hat abgestimmt
+to vote
+
+
+
+
+(sich) duschen, duscht, duschte, hat geduscht
+to shower
+
+
+
+
+besichtigen, besichtigt, besichtigte, hat besichtigt
+to visit, to tour
+
+
+
+
+dürfen, darf, durfte, hat gedurft (hat dürfen als Modalverb)
+to be allowed to, may
+
+
+
+
+ernähren, ernährt, ernährte, hat ernährt
+to nourish, to support
+
+
+
+
+führen, führt, führte, hat geführt
+to lead, to guide, to manage
+
+einführen, führt ein, führte ein, hat eingeführt
+to import, to introduce
+
+aufführen, führt auf, führte auf, hat aufgeführt
+to perform
+
+
+
+
+folgen, folgt, folgte, ist gefolgt
+to follow
+
+
+
+
+bewegen, bewegt, bewegte, hat bewegt
+to move
+
+
+
+
+raten, rät, riet, hat geraten
+to advise, to guess
+
+verraten, verrät, verriet, hat verraten
+to betray, to reveal
+
+beraten, berät, beriet, hat beraten
+to advise
+
+
+
+
+braten, brät, briet, hat gebraten
+to fry, to roast
+
+
+
+
+baden, badet, badete, hat gebadet
+to bathe
+
+
+
+
