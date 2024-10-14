@@ -21131,8 +21131,9 @@ windig
 Es ist heute sehr windig.
 
 
-windig
-(Es ist heute sehr windig.)
+windy
+
+It is very windy today.
 
 
 
