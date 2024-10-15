@@ -5,7 +5,7 @@ with open('trashcan/verbs.txt', 'r', encoding='utf-8') as input_file:
 sections = input_data.strip().split("\n\n\n\n\n")
 
 # Sort sections based on the number of "\n\n" splits within each section
-sorted_sections = sorted(sections, key=lambda s: len(s.split("\n\n")))
+sorted_sections = sorted(sections, key=lambda s: len(s.split("\n\n")), reverse=True)
 
 # Join them back together with the required separators
 sorted_output = "\n\n\n\n\n".join(sorted_sections)
