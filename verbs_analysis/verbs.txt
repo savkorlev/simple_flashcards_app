@@ -1663,3 +1663,15 @@ to fry, to roast
 
 baden, badet, badete, hat gebadet
 to bathe
+
+
+
+
+kennen, kennt, kannte, hat gekannt
+to know
+
+erkennen, erkennt, erkannte, hat erkannt
+to recognize, to realize
+
+anerkennen, erkennt an, erkannte an, hat anerkannt
+to recognize

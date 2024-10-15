@@ -45,3 +45,15 @@ verschreiben, verschreibt, verschrieb, hat verschrieben
 
 unterschreiben, unterschreibt, unterschrieb, hat unterschrieben
 [подписать]
+
+
+
+
+kennen, kennt, kannte, hat gekannt
+знать
+
+erkennen, erkennt, erkannte, hat erkannt
+[узнать], [осознать]
+
+anerkennen, erkennt an, erkannte an, hat anerkannt
+[признать]
