@@ -14425,7 +14425,7 @@ Bescheid geben
 Kannst du mir bis morgen Bescheid geben?
 
 
-to inform, let know
+to inform, to let know
 
 Can you let me know by tomorrow?
 
@@ -14478,10 +14478,10 @@ genießen, genießt, genoss, hat genossen
 2. Sie hat eine gute Ausbildung genossen.
 
 
-to enjoy
+to enjoy, to receive
 
 1. Unfortunately, he cannot enjoy the food because it is too spicy.
-2. She received a good education.
+2. She has received a good education.
 
 
 
@@ -14698,7 +14698,7 @@ blitzen, blitzt, blitzte, hat geblitzt
 2. Ihre Augen blitzen vor Freude.
 
 
-to flash, sparkle
+to flash, to sparkle
 
 1. There was a thunderstorm last night. It flashed and thundered terribly.
 2. Her eyes sparkle with joy.
