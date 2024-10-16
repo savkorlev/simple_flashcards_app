@@ -14781,7 +14781,7 @@ beschließen, beschließt, beschloss, hat beschlossen
 Wir haben beschlossen, uns ein kleineres Auto zu kaufen.
 
 
-to decide, resolve
+to decide, to resolve
 
 We have decided to buy a smaller car.
 
