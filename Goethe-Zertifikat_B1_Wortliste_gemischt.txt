@@ -15160,14 +15160,14 @@ Unfortunately, you didn't answer my question.
 
 erfüllen, erfüllt, erfüllte, hat erfüllt
 
-Sie müssen den Vertrag in allen Punkten erfüllen.
-Wir erfüllen Ihnen jeden Wunsch.
+1. Sie müssen den Vertrag in allen Punkten erfüllen.
+2. Wir erfüllen Ihnen jeden Wunsch.
 
 
 to fulfill, to comply with
 
-You must fulfill the contract in all points.
-We will fulfill every wish you have.
+1. You must fulfill the contract in all points.
+2. We will fulfill every wish you have.
 
 
 
@@ -15175,7 +15175,7 @@ We will fulfill every wish you have.
 einrichten, richtet ein, richtete ein, hat eingerichtet
 
 1. Ich habe meine Wohnung selbst eingerichtet.
-2. Wenn Sie Fragen haben, rufen Sie uns an. Wir haben eine extra Telefonnummer eingerichtet.
+2. Wenn Sie Fragen haben, rufen Sie uns an. Wir haben eine extra Telefon-nummer eingerichtet.
 
 
 to furnish, to set up
