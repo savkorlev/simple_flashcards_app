@@ -1661,7 +1661,7 @@ to fry, to roast
 
 
 
-baden, badet, badete, hat gebadet
+baden, badet, badete, hat gebadet#
 to bathe
 
 
@@ -1675,3 +1675,18 @@ to recognize, to realize
 
 anerkennen, erkennt an, erkannte an, hat anerkannt
 to recognize
+
+
+
+
+machen, macht, machte, hat gemacht
+to do, to make
+
+zumachen, macht zu, machte zu, hat zugemacht
+to close
+
+abmachen, macht ab, machte ab, hat abgemacht
+to agree
+
+ausmachen, macht aus, machte aus, hat ausgemacht
+to mind, to turn off, to arrange, to make

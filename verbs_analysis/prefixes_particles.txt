@@ -13,6 +13,7 @@ Meanings: Approach, contact, beginning of an action
 Checks out:
 1. annehmen - {to take on}, to accept, to assume
 2. ansprechen - {to speak to}
+3. ankommen - {to come at}, {to come to}, to arrive
 
 auf-
 English equivalents: up, open
@@ -27,6 +28,7 @@ Meanings: Movement outwards, completion, exhaustion
 Checks out:
 1. ausgehen - {to go out}, to turn off, to end
 2. ausziehen - {to move out}, {to take off}
+3. ausfüllen - {to fill out}
 
 be-
 English equivalents: (No direct English equivalent; sometimes intensifies the verb or makes it transitive)
@@ -57,11 +59,6 @@ English equivalents: behind, after
 Meanings: Behind, after, deception
 Checks out:
 
-er-
-English equivalents: re-, up, (indicates completion)
-Meanings: Completion, achieving, beginning
-Checks out:
-
 ein-
 English equivalents: in, into, en-
 Meanings: Into, entry, beginning
@@ -73,6 +70,12 @@ ent-
 English equivalents: dis-, de-, un-
 Meanings: Separation, removal, reversal
 Checks out:
+
+er-
+English equivalents: re-, up, (indicates completion)
+Meanings: Completion, achieving, beginning
+Checks out:
+1. erfüllen - {to fulfill}
 
 fest-
 English equivalents: firm, fixed

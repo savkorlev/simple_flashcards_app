@@ -15664,12 +15664,12 @@ ausmachen, macht aus, machte aus, hat ausgemacht
 4. Haben Sie einen Termin ausgemacht?
 
 
-to turn off, to arrange
+to mind, to turn off, to arrange, to make
 
-1. Unfortunately, you have to wait. - No problem, I don't mind.
+1. You have to wait, unfortunately. - No problem. I don't mind.
 2. Please turn off the light!
-3. We agreed that you would get the drinks.
-4. Did you make an appointment?
+3. We had agreed that you would get the drinks.
+4. Have you made an appointment?
 
 
 
