@@ -14917,11 +14917,11 @@ dabei
 3. Hast du einen Stift dabei?
 
 
-with it, there, on hand
+with... (you)
 
 1. What were you thinking?
-2. Nice that you're here. Is your family also there?
-3. Do you have a pen on hand?
+2. Nice that you're here. Is your family also with you?
+3. Do you have a pen with you?
 
 
 
@@ -15038,7 +15038,7 @@ ankommen, kommt an, kam an, ist angekommen
 2. Bei dem Spiel kommt es darauf an, schneller zu laufen als die anderen.
 
 
-to arrive
+to arrive, to depend on
 
 1. When does the train arrive in Hamburg?
 2. In the game, it depends on running faster than the others.
