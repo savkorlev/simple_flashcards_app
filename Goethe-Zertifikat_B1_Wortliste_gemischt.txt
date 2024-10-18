@@ -15766,14 +15766,14 @@ curve
 
 gefährlich
 
-Achtung, hier ist eine gefährliche Kurve!
-Du darfst nicht bei Rot über die Straße gehen. Das ist gefährlich.
+1. Achtung, hier ist eine gefährliche Kurve!
+2. Du darfst nicht bei Rot über die Straße gehen. Das ist gefährlich.
 
 
 dangerous
 
-Caution, this is a dangerous curve!
-You mustn't cross the street when the light is red. That's dangerous.
+1. Caution, this is a dangerous curve!
+2. You mustn't cross the street when the light is red. That's dangerous.
 
 
 
