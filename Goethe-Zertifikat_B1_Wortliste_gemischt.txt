@@ -16137,7 +16137,7 @@ benötigen, benötigt, benötigte, hat benötigt
 Sagen Sie Bescheid, wenn Sie noch etwas benötigen.
 
 
-to need, require
+to need, to require
 
 Let me know if you need anything else.
 

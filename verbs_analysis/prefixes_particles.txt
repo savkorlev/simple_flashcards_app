@@ -30,12 +30,13 @@ Checks out:
 2. ausziehen - {to move out}, {to take off}
 3. ausfüllen - {to fill out}
 4. ausgeben - to spend (money) (like "to give money out")
+5. ausstellen - {to set out}, to exhibit, to issue
 
 be-
 English equivalents: (No direct English equivalent; sometimes intensifies the verb or makes it transitive)
 Meanings: Makes the verb transitive, affects the object directly
 Checks out:
-1. beschreiben - {to describe} (as in "schreiben - to scribe"), 
+1. beschreiben - {to describe} (as in "schreiben - to scribe")
 2. sich befinden - to be located (like "to find oneself somewhere")
 
 dar-
@@ -77,6 +78,8 @@ English equivalents: re-, up, (indicates completion)
 Meanings: Completion, achieving, beginning
 Checks out:
 1. erfüllen - {to fulfill}
+2. erkennen - {to recognize}, to realize (as in "kennen - to cognize")
+3. erreichen - to reach, to achieve
 
 fest-
 English equivalents: firm, fixed
