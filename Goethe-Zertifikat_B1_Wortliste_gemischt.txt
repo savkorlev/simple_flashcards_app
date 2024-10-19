@@ -15952,14 +15952,14 @@ I have a cold, therefore I can't come today.
 
 der Feiertag, -e
 
-Am Montag ist Feiertag.
-Schöne Feiertage.
+1. Am Montag ist Feiertag.
+2. Schöne Feiertage.
 
 
 holiday
 
-Monday is a holiday.
-Happy holidays.
+1. Monday is a holiday.
+2. Happy holidays.
 
 
 
@@ -16006,14 +16006,14 @@ On this route, the train is a good alternative to the plane.
 
 eröffnen, eröffnet, eröffnete, hat eröffnet
 
-Mein Nachbar hat letzten Monat ein Geschäft eröffnet.
-Ich möchte ein Konto eröffnen.
+1. Mein Nachbar hat letzten Monat ein Geschäft eröffnet.
+2. Ich möchte ein Konto eröffnen.
 
 
 to open
 
-My neighbor opened a shop last month.
-I want to open an account.
+1. My neighbor opened a shop last month.
+2. I want to open an account.
 
 
 
