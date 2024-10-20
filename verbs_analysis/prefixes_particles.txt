@@ -48,6 +48,7 @@ Checks out:
 Does not check out:
 1. bestellen - to order, to appoint, to convey
 2. behalten - to keep
+3. besetzen - to occupy, to be busy
 
 dar-
 English equivalents: there, forth
@@ -64,6 +65,7 @@ Checks out:
 2. einziehen - {to move in}
 Does not check out:
 1. einstellen - to hire, to adjust
+2. einsetzen - to appoint, to advocate
 
 ent-
 English equivalents: dis-, de-, un-
@@ -80,18 +82,20 @@ Checks out:
 1. erfüllen - {to fulfill}
 2. erkennen - {to recognize}, to realize (as in "kennen - to cognize")
 3. erreichen - to reach, to achieve
+4. ersetzen - to replace, to reimburse (as in "setzen - to place yourself")
 Does not check out:
 1. erstellen - to create
 2. erhalten - to receive
 3. erziehen - to raise, to educate
 
 fest-
-English equivalents: firm, fixed
+English equivalents: firm, fixed, tight
 Meanings: Firmness, fixing, setting
 Checks out:
 1. feststehen - {to stand firm}, to be certain, to be fixed
 2. festnehmen - to arrest (like "to take firm")
 3. festhalten - to hold on, to hold (like "to hold firm")
+4. festsetzen - to set, to determine (as in "setzen - to place yourself") (like "to place tight")
 Does not check out:
 1. feststellen - to determine, to find out
 
@@ -99,6 +103,7 @@ fort-
 English equivalents: away, forth, continue
 Meanings: Continuation, moving away
 Checks out:
+1. fortsetzen - to continue
 Does not check out:
 
 her-
@@ -168,6 +173,7 @@ Checks out:
 1. übernehmen - {to take over}
 2. überfahren - {to run over} (like "drive over")
 Does not check out:
+1. übersetzen - to translate
 
 ver-
 English equivalents: mis-, for-, (can intensify or negate the verb)
