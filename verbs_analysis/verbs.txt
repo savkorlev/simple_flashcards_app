@@ -469,6 +469,9 @@ to happen, to occur
 ankommen, kommt an, kam an, ist angekommen
 to arrive, to depend on
 
+bekommen, bekommt, bekam, hat bekommen
+to get, to receive
+
 
 
 
@@ -1022,7 +1025,7 @@ beachten, beachtet, beachtete, hat beachtet
 to pay attention to
 
 beobachten, beobachtet, beobachtete, hat beobachtet
-to observe, watch
+to observe, to watch
 
 
 
@@ -1116,7 +1119,6 @@ to be wrong, to be mistaken
 
 betreuen, betreut, betreute, hat betreut
 to look after
-
 
 
 
@@ -1376,10 +1378,8 @@ to grill
 
 
 
-
 bitten, bittet, bat, hat gebeten
 to ask, to request
-
 
 
 
@@ -1503,7 +1503,6 @@ to check, to control
 
 fühlen, fühlt, fühlte, hat gefühlt
 to feel
-
 
 
 
@@ -1708,3 +1707,405 @@ to throw
 
 (hinunter) runterwerfen, wirft runter, warf runter, hat runtergeworfen
 to throw down
+
+
+
+
+beschäftigen, beschäftigt, beschäftigte, hat beschäftigt
+to occupy, to employ
+
+
+
+
+warten, wartet, wartete, hat gewartet
+to wait
+
+erwarten, erwartet, erwartete, hat erwartet
+to expect
+
+
+
+
+entwickeln, entwickelt, entwickelte, hat entwickelt
+to develop
+
+
+
+
+beschädigen, beschädigt, beschädigte, hat beschädigt
+to damage
+
+
+
+
+kriegen, kriegt, kriegte, hat gekriegt
+to get, to receive
+
+
+
+
+brechen, bricht, brach, hat gebrochen
+to break
+
+einbrechen, bricht ein, brach ein, ist eingebrochen
+to break in
+
+unterbrechen, unterbricht, unterbrach, hat unterbrochen
+to interrupt
+
+
+
+
+klicken, klickt, klickte, hat geklickt
+to click
+
+anklicken, klickt an, klickte an, hat angeklickt
+to click on
+
+
+
+
+sich anstrengen, strengt sich an, strengte sich an, hat sich angestrengt
+to exert oneself, to make an effort
+
+
+
+
+gelten, gilt, galt, hat gegolten
+to be valid, to apply
+
+
+
+
+lernen, lernt, lernte, hat gelernt
+to learn
+
+kennenlernen, lernt kennen, lernte kennen, hat kennengelernt
+to get to know, to meet
+
+
+
+
+blühen, blüht, blühte, hat geblüht
+to bloom
+
+
+
+
+funktionieren, funktioniert, funktionierte, hat funktioniert
+to function, to work
+
+
+
+
+bauen, baut, baute, hat gebaut
+to build
+
+
+
+
+gehen, geht, ging, ist gegangen
+to go, to walk
+
+ausgehen, geht aus, ging aus, ist ausgegangen
+to go out, to turn off, to end
+
+zugehen, geht zu, ging zu, ist zugegangen
+to close
+
+spazieren gehen, geht spazieren, ging spazieren, ist spazieren gegangen
+to take a walk
+
+umgehen, geht um, ging um, ist umgegangen
+to handle, to deal with
+
+
+
+
+sich kümmern, kümmert sich, kümmerte sich, hat sich gekümmert
+to take care of
+
+
+
+
+sich bemühen, bemüht, bemühte, hat bemüht
+to strive, to make an effort
+
+
+
+
+donnern, donnert, donnerte, hat gedonnert
+to thunder
+
+
+
+
+erschrecken, erschrickt, erschrak, ist erschrocken / jdn. erschrecken, erschreckt, erschreckte, hat erschreckt
+to be startled, to scare someone
+
+
+
+
+werden, wird, wurde, ist geworden
+to become, will
+
+geboren werden, wird geboren, wurde geboren, ist geboren worden
+to be born
+
+
+
+
+küssen, küsst, küsste, hat geküsst
+to kiss
+
+
+
+
+genießen, genießt, genoss, hat genossen
+to enjoy, to receive
+
+
+
+
+bestrafen, bestraft, bestrafte, hat bestraft
+to punish
+
+
+
+
+antworten, antwortet, antwortete, hat geantwortet
+to answer
+
+beantworten, beantwortet, beantwortete, hat beantwortet
+to answer
+
+
+
+
+blitzen, blitzt, blitzte, hat geblitzt
+to flash, to sparkle
+
+
+
+
+hassen, hasst, hasste, hat gehasst
+to hate
+
+
+
+
+gucken, guckt, guckte, hat geguckt
+to look, to watch
+
+
+
+
+zählen, zählt, zählte, hat gezählt
+to count
+
+erzählen, erzählt, erzählte, hat erzählt
+to tell, to narrate
+
+
+
+
+erfüllen, erfüllt, erfüllte, hat erfüllt
+to fulfill, to comply with
+
+ausfüllen, füllt aus, füllte aus, hat ausgefüllt
+to fill out
+
+
+
+
+kosten, kostet, kostete, hat gekostet
+to cost
+
+
+
+
+betrügen, betrügt, betrog, hat betrogen
+to deceive, to cheat
+
+
+
+
+(sich) fürchten, fürchtet, fürchtete, hat gefürchtet
+to fear, to be afraid of
+
+
+
+
+geschehen, geschieht, geschah, ist geschehen
+to happen, to occur
+
+
+
+
+ergänzen, ergänzt, ergänzte, hat ergänzt
+to complete, to add
+
+
+
+
+ändern, ändert, änderte, hat geändert
+to change
+
+(sich) verändern, verändert, veränderte, hat verändert
+to change
+
+
+
+
+garantieren, garantiert, garantierte, hat garantiert
+to guarantee
+
+
+
+
+öffnen, öffnet, öffnete, hat geöffnet
+to open
+
+eröffnen, eröffnet, eröffnete, hat eröffnet
+to open
+
+
+
+
+benötigen, benötigt, benötigte, hat benötigt
+to need, to require
+
+
+
+
+können, kann, konnte, hat gekonnt (hat können als Modalverb)
+can, to be able
+
+
+
+
+akzeptieren, akzeptiert, akzeptierte, hat akzeptiert
+to accept
+
+
+
+
+reichen, reicht, reichte, hat gereicht
+to suffice, to be enough
+
+ausreichen, reicht aus, reichte aus, hat ausgereicht
+to suffice, to be enough
+
+erreichen, erreicht, erreichte, hat erreicht
+to reach, to achieve
+
+
+
+
+husten, hustet, hustete, hat gehustet
+to cough
+
+
+
+
+diskutieren, diskutiert, diskutierte, hat diskutiert
+to discuss
+
+
+
+
+bestätigen, bestätigt, bestätigte, hat bestätigt
+to confirm
+
+
+
+
+faulenzen, faulenzt, faulenzte, hat gefaulenzt
+to laze around
+
+
+
+
+erledigen, erledigt, erledigte, hat erledigt
+to take care of, to complete
+
+
+
+
+nutzen, nutzt, nutzte, hat genutzt
+to use
+
+benutzen, benutzt, benutzte, hat benutzt
+to use
+
+
+
+
+ablehnen, lehnt ab, lehnte ab, hat abgelehnt
+to reject
+
+
+
+
+aufregen, regt auf, regte auf, hat aufgeregt
+to upset, to be excited
+
+
+
+
+atmen, atmet, atmete, hat geatmet
+to breathe
+
+
+
+
+erhöhen, erhöht, erhöhte, hat erhöht
+to increase
+
+
+
+
+fotografieren, fotografiert, fotografierte, hat fotografiert
+to photograph
+
+
+
+
+sich erkundigen, erkundigt sich, erkundigte sich, hat sich erkundigt
+to inquire
+
+
+
+
+klopfen, klopft, klopfte, hat geklopft
+to knock
+
+
+
+
+füttern, füttert, fütterte, hat gefüttert
+to feed
+
+
+
+
+genügen, genügt, genügte, hat genügt
+to be enough
+
+
+
+
+bedeuten, bedeutet, bedeutete, hat bedeutet
+to mean
+
+
+
+
+abbiegen, biegt ab, bog ab, ist abgebogen
+to turn
+
+
+
+
+liegen, liegt, lag, hat/ist gelegen
+to lie, to be located
