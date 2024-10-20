@@ -6,6 +6,7 @@ Meanings: Separation, removal, departure
 Checks out:
 1. abnehmen - {to take off}, to lose weight
 2. abfahren - {to drive away}, {to drive off}, to depart
+Does not check out:
 
 an-
 English equivalents: on, at, to
@@ -14,6 +15,8 @@ Checks out:
 1. annehmen - {to take on}, to accept, to assume
 2. ansprechen - {to speak to}
 3. ankommen - {to come at}, {to come to}, to arrive, to depend on
+Does not check out:
+1. anstellen - to turn on, to employ, to line up
 
 auf-
 English equivalents: up, open
@@ -21,6 +24,7 @@ Meanings: Upward movement, opening, starting an action
 Checks out:
 1. aufnehmen - {to take up}, to accept, to record
 2. aufstehen - {to get up}
+Does not check out:
 
 aus-
 English equivalents: out, off, from
@@ -31,6 +35,7 @@ Checks out:
 3. ausfüllen - {to fill out}
 4. ausgeben - to spend (money) (like "to give money out")
 5. ausstellen - {to set out}, to exhibit, to issue
+Does not check out:
 
 be-
 English equivalents: (No direct English equivalent; sometimes intensifies the verb or makes it transitive)
@@ -38,29 +43,15 @@ Meanings: Makes the verb transitive, affects the object directly
 Checks out:
 1. beschreiben - {to describe} (as in "schreiben - to scribe")
 2. sich befinden - to be located (like "to find oneself somewhere")
+Does not check out:
+1. bestellen - to order, to appoint, to convey
 
 dar-
 English equivalents: there, forth
 Meanings: Presentation, demonstration
 Checks out:
 1. darstellen - {to put forth}, to portray, to depict, to represent
-
-heraus-
-English equivalents: out, out of, forth
-Meanings: Movement from inside to outside towards the speaker
-Checks out:
-1. herausfinden - {to find out}
-
-herunter-
-English equivalents: down, downwards
-Meanings: Movement downwards towards the speaker
-Checks out:
-1. runterwerfen - {to throw down}
-
-hinter-
-English equivalents: behind, after
-Meanings: Behind, after, deception
-Checks out:
+Does not check out:
 
 ein-
 English equivalents: in, into, en-
@@ -68,11 +59,14 @@ Meanings: Into, entry, beginning
 Checks out:
 1. einnehmen - {to take in (medicine)}
 2. einziehen - {to move in}
+Does not check out:
+1. einstellen - to hire, to adjust
 
 ent-
 English equivalents: dis-, de-, un-
 Meanings: Separation, removal, reversal
 Checks out:
+Does not check out:
 
 er-
 English equivalents: re-, up, (indicates completion)
@@ -81,34 +75,63 @@ Checks out:
 1. erfüllen - {to fulfill}
 2. erkennen - {to recognize}, to realize (as in "kennen - to cognize")
 3. erreichen - to reach, to achieve
+Does not check out:
+1. erstellen - to create
 
 fest-
 English equivalents: firm, fixed
 Meanings: Firmness, fixing, setting
 Checks out:
 1. feststehen - {to stand firm}, to be certain, to be fixed
+Does not check out:
+1. feststellen - to determine, to find out
 
 fort-
 English equivalents: away, forth, continue
 Meanings: Continuation, moving away
 Checks out:
+Does not check out:
 
 her-
 English equivalents: here, towards
 Meanings: Movement towards the speaker
 Checks out:
+Does not check out:
+1. herstellen - to produce
+
+heraus-
+English equivalents: out, out of, forth
+Meanings: Movement from inside to outside towards the speaker
+Checks out:
+1. herausfinden - {to find out}
+Does not check out:
+
+herunter-
+English equivalents: down, downwards
+Meanings: Movement downwards towards the speaker
+Checks out:
+1. runterwerfen - {to throw down}
+Does not check out:
+
+hinter-
+English equivalents: behind, after
+Meanings: Behind, after, deception
+Checks out:
+Does not check out:
 
 los-
 English equivalents: off, away, un-
 Meanings: Starting action, separation, release
 Checks out:
 1. losfahren - {to drive away}, {to drive off}, to depart
+Does not check out:
 
 teil-
 English equivalents: part, share
 Meanings: Sharing, participation
 Checks out:
 1. teilnehmen - {to take part}, to participate
+Does not check out:
 
 unter-
 English equivalents: under, sub-
@@ -116,6 +139,7 @@ Meanings: Under, beneath, sub-
 Checks out:
 1. unternehmen - {to undertake}, to do
 2. unterschreiben - {to subscribe} (old meaning "to sign") (as in "schreiben - to scribe")
+Does not check out:
 
 über-
 English equivalents: over, across, trans-
@@ -123,29 +147,35 @@ Meanings: Over, across, excess
 Checks out:
 1. übernehmen - {to take over}
 2. überfahren - {to run over} (like "drive over")
+Does not check out:
 
 ver-
 English equivalents: mis-, for-, (can intensify or negate the verb)
 Meanings: Negation, intensification, error
 Checks out:
 1. verschreiben - {to prescribe} (as in "schreiben - to scribe")
+Does not check out:
 
 vor-
 English equivalents: fore-, pre-, forward
 Meanings: Before, forward, in front
 Checks out:
+Does not check out:
+1. (sich) vorstellen - to imagine, to introduce
 
 wider-
 English equivalents: against, counter-
 Meanings: Opposition, against
 Checks out:
 1. widersprechen - {to speak against}, to contradict
+Does not check out:
 
 zu-
 English equivalents: to, close, towards
 Meanings: Closure, approach, towards
 Checks out:
 1. zunehmen - {to take more}, to gain weight
+Does not check out:
 
 #######################################################
 
