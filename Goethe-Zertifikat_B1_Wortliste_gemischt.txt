@@ -16836,12 +16836,14 @@ I won't ride a bike in this cold.
 
 der Gott, ¨-er
 
-Glaubst du an Gott?
+1. Glaubst du an Gott?
+2. Gott sei Dank ist ihm nichts passiert.
 
 
 god
 
-Do you believe in God?
+1. Do you believe in God?
+2. Thank god, nothing happened to him.
 
 
 
