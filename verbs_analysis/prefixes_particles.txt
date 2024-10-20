@@ -24,6 +24,7 @@ Meanings: Upward movement, opening, starting an action
 Checks out:
 1. aufnehmen - {to take up}, to accept, to record
 2. aufstehen - {to get up}
+3. aufhalten - {to hold up}, to stay, to hold
 Does not check out:
 
 aus-
@@ -45,6 +46,7 @@ Checks out:
 2. sich befinden - to be located (like "to find oneself somewhere")
 Does not check out:
 1. bestellen - to order, to appoint, to convey
+2. behalten - to keep
 
 dar-
 English equivalents: there, forth
@@ -67,6 +69,7 @@ English equivalents: dis-, de-, un-
 Meanings: Separation, removal, reversal
 Checks out:
 Does not check out:
+1. enthalten - to contain
 
 er-
 English equivalents: re-, up, (indicates completion)
@@ -77,12 +80,15 @@ Checks out:
 3. erreichen - to reach, to achieve
 Does not check out:
 1. erstellen - to create
+2. erhalten - to receive
 
 fest-
 English equivalents: firm, fixed
 Meanings: Firmness, fixing, setting
 Checks out:
 1. feststehen - {to stand firm}, to be certain, to be fixed
+2. festnehmen - to arrest (like "to take firm")
+3. festhalten - to hold on, to hold (like "to hold firm")
 Does not check out:
 1. feststellen - to determine, to find out
 
@@ -140,6 +146,7 @@ Checks out:
 1. unternehmen - {to undertake}, to do
 2. unterschreiben - {to subscribe} (old meaning "to sign") (as in "schreiben - to scribe")
 Does not check out:
+1. (sich) unterhalten - to converse, to entertain
 
 über-
 English equivalents: over, across, trans-
@@ -155,6 +162,7 @@ Meanings: Negation, intensification, error
 Checks out:
 1. verschreiben - {to prescribe} (as in "schreiben - to scribe")
 Does not check out:
+1. sich verhalten - to behave
 
 vor-
 English equivalents: fore-, pre-, forward
