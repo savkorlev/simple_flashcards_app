@@ -17,6 +17,7 @@ Checks out:
 3. ankommen - {to come at}, {to come to}, to arrive, to depend on
 Does not check out:
 1. anstellen - to turn on, to employ, to line up
+2. anziehen - to dress, to put on
 
 auf-
 English equivalents: up, open
@@ -81,6 +82,7 @@ Checks out:
 Does not check out:
 1. erstellen - to create
 2. erhalten - to receive
+3. erziehen - to raise, to educate
 
 fest-
 English equivalents: firm, fixed
@@ -147,6 +149,14 @@ Checks out:
 2. unterschreiben - {to subscribe} (old meaning "to sign") (as in "schreiben - to scribe")
 Does not check out:
 1. (sich) unterhalten - to converse, to entertain
+
+um-
+English equivalents: around, re-, over, transform
+Meanings: Movement around, change, transformation, reversal, exchange
+Checks out:
+1. umziehen - to move (house)
+2. sich umziehen - to change clothes
+Does not check out:
 
 über-
 English equivalents: over, across, trans-
