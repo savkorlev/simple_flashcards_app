@@ -71,6 +71,7 @@ Meanings: Separation, removal, reversal
 Checks out:
 Does not check out:
 1. enthalten - to contain
+2. entlassen - to discharge, to dismiss
 
 er-
 English equivalents: re-, up, (indicates completion)
@@ -125,6 +126,7 @@ hinter-
 English equivalents: behind, after
 Meanings: Behind, after, deception
 Checks out:
+1. hinterlassen - {to leave behind}
 Does not check out:
 
 los-
@@ -149,6 +151,7 @@ Checks out:
 2. unterschreiben - {to subscribe} (old meaning "to sign") (as in "schreiben - to scribe")
 Does not check out:
 1. (sich) unterhalten - to converse, to entertain
+2. unterlassen - to refrain from
 
 um-
 English equivalents: around, re-, over, transform
@@ -170,9 +173,10 @@ ver-
 English equivalents: mis-, for-, (can intensify or negate the verb)
 Meanings: Negation, intensification, error
 Checks out:
-1. verschreiben - {to prescribe} (as in "schreiben - to scribe")
 Does not check out:
-1. sich verhalten - to behave
+1. verschreiben - to prescribe (as in "schreiben - to scribe")
+2. sich verhalten - to behave
+3. verlassen - to leave, to rely on
 
 vor-
 English equivalents: fore-, pre-, forward
