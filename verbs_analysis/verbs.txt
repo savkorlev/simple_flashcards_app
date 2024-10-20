@@ -1699,3 +1699,12 @@ to solve, to buy
 
 auflösen, löst auf, löste auf, hat aufgelöst
 to dissolve
+
+
+
+
+werfen, wirft, warf, hat geworfen
+to throw
+
+(hinunter) runterwerfen, wirft runter, warf runter, hat runtergeworfen
+to throw down

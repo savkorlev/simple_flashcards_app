@@ -16525,7 +16525,7 @@ beobachten, beobachtet, beobachtete, hat beobachtet
 Wer hat den Unfall beobachtet?
 
 
-to observe, watch
+to observe, to watch
 
 Who observed the accident?
 

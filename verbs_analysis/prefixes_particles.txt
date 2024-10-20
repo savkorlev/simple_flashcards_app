@@ -55,6 +55,7 @@ herunter-
 English equivalents: down, downwards
 Meanings: Movement downwards towards the speaker
 Checks out:
+1. runterwerfen - {to throw down}
 
 hinter-
 English equivalents: behind, after
