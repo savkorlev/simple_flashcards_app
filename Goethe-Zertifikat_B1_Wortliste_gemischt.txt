@@ -5132,7 +5132,7 @@ aufstehen, steht auf, stand auf, ist aufgestanden
 2. Sie brauchen nicht aufzustehen. Sie können sitzen bleiben.
 
 
-to get up
+to get up, to stand up
 
 1. I get up every morning at six o'clock.
 2. You don't have to get up. You can stay seated.
