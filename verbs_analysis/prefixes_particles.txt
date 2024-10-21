@@ -1,3 +1,5 @@
+### Positive Surplus ###
+
 ab-
 English equivalents: off, away, down
 Meanings: Separation, removal, departure
@@ -37,17 +39,6 @@ Checks out:
 5. ausstellen - {to set out}, to exhibit, to issue
 Does not check out:
 
-be-
-English equivalents: (No direct English equivalent; sometimes intensifies the verb or makes it transitive)
-Meanings: Makes the verb transitive, affects the object directly
-Checks out:
-1. beschreiben - {to describe} (as in "schreiben - to scribe")
-2. sich befinden - to be located (like "to find oneself somewhere")
-Does not check out:
-1. bestellen - to order, to appoint, to convey
-2. behalten - to keep
-3. besetzen - to occupy, to be busy
-
 dar-
 English equivalents: there, forth
 Meanings: Presentation, demonstration
@@ -64,14 +55,6 @@ Checks out:
 Does not check out:
 1. einstellen - to hire, to adjust
 2. einsetzen - to appoint, to advocate
-
-ent-
-English equivalents: dis-, de-, un-
-Meanings: Separation, removal, reversal
-Checks out:
-Does not check out:
-1. enthalten - to contain
-2. entlassen - to discharge, to dismiss
 
 er-
 English equivalents: re-, up, (indicates completion)
@@ -103,13 +86,6 @@ Meanings: Continuation, moving away
 Checks out:
 1. fortsetzen - to continue
 Does not check out:
-
-her-
-English equivalents: here, towards
-Meanings: Movement towards the speaker
-Checks out:
-Does not check out:
-1. herstellen - to produce
 
 heraus-
 English equivalents: out, out of, forth
@@ -174,6 +150,48 @@ Checks out:
 Does not check out:
 1. übersetzen - to translate
 
+wider-
+English equivalents: against, counter-
+Meanings: Opposition, against
+Checks out:
+1. widersprechen - {to speak against}, to contradict
+Does not check out:
+
+zu-
+English equivalents: to, close, towards
+Meanings: Closure, approach, towards
+Checks out:
+1. zunehmen - {to take more}, to gain weight
+Does not check out:
+
+### Negative Surplus ###
+
+be-
+English equivalents: (No direct English equivalent; sometimes intensifies the verb or makes it transitive)
+Meanings: Makes the verb transitive, affects the object directly
+Checks out:
+1. beschreiben - {to describe} (as in "schreiben - to scribe")
+2. sich befinden - to be located (like "to find oneself somewhere")
+Does not check out:
+1. bestellen - to order, to appoint, to convey
+2. behalten - to keep
+3. besetzen - to occupy, to be busy
+
+ent-
+English equivalents: dis-, de-, un-
+Meanings: Separation, removal, reversal
+Checks out:
+Does not check out:
+1. enthalten - to contain
+2. entlassen - to discharge, to dismiss
+
+her-
+English equivalents: here, towards
+Meanings: Movement towards the speaker
+Checks out:
+Does not check out:
+1. herstellen - to produce
+
 ver-
 English equivalents: mis-, for-, (can intensify or negate the verb)
 Meanings: Negation, intensification, error
@@ -189,17 +207,3 @@ Meanings: Before, forward, in front
 Checks out:
 Does not check out:
 1. (sich) vorstellen - to imagine, to introduce
-
-wider-
-English equivalents: against, counter-
-Meanings: Opposition, against
-Checks out:
-1. widersprechen - {to speak against}, to contradict
-Does not check out:
-
-zu-
-English equivalents: to, close, towards
-Meanings: Closure, approach, towards
-Checks out:
-1. zunehmen - {to take more}, to gain weight
-Does not check out:

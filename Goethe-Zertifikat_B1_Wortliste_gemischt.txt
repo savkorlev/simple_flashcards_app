@@ -17036,7 +17036,7 @@ alltäglich
 2. Der Roman erzählt eine ganz alltägliche Geschichte.
 
 
-everyday
+everyday, ordinary
 
 1. Everyday life is sometimes boring.
 2. The novel tells a very ordinary story.
@@ -17265,7 +17265,7 @@ Werfen Sie den Bioabfall bitte nicht zum normalen Müll.
 
 waste
 
-Please do not throw the organic waste into the regular garbage..
+Please do not throw the organic waste into the regular garbage.
 
 
 
