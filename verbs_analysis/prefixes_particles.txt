@@ -123,6 +123,7 @@ English equivalents: down, downwards
 Meanings: Movement downwards towards the speaker
 Checks out:
 1. runterwerfen - {to throw down}
+2. herunterfahren - {to drive down}, to shut down
 Does not check out:
 
 hinter-
