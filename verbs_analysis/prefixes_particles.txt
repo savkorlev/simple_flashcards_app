@@ -32,6 +32,7 @@ Checks out:
 1. aufnehmen - {to take up}, to accept, to record
 2. aufstehen - {to stand up}, {to get up}
 3. aufhalten - {to hold up}, to stay, to hold
+4. aufräumen - {to clear up}
 Checks out(?):
 Does not check out:
 
@@ -189,6 +190,7 @@ Does not check out:
 3. besetzen - to occupy, to be busy
 4. besprechen - to discuss
 5. bestehen - to consist, to pass
+6. benutzen - to use
 
 ent-
 English equivalents: dis-, de-, un-
