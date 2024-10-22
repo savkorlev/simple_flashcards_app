@@ -46,6 +46,7 @@ Checks out:
 5. ausstellen - {to set out}, to exhibit, to issue
 Checks out(?):
 Does not check out:
+1. aussprechen - to pronounce
 
 dar-
 English equivalents: there, forth
@@ -65,20 +66,6 @@ Checks out(?):
 Does not check out:
 1. einstellen - to hire, to adjust
 2. einsetzen - to appoint, to advocate
-
-er-
-English equivalents: re-, up, (indicates completion)
-Meanings: Completion, achieving, beginning
-Checks out:
-1. erfüllen - {to fulfill}
-2. erkennen - {to recognize}, to realize (as in "kennen - to cognize")
-3. erreichen - to reach, to achieve
-4. ersetzen - to replace, to reimburse (as in "setzen - to place yourself")
-Checks out(?):
-Does not check out:
-1. erstellen - to create
-2. erhalten - to receive
-3. erziehen - to raise, to educate
 
 fest-
 English equivalents: firm, fixed, tight
@@ -200,6 +187,8 @@ Does not check out:
 1. bestellen - to order, to appoint, to convey
 2. behalten - to keep
 3. besetzen - to occupy, to be busy
+4. besprechen - to discuss
+5. bestehen - to consist, to pass
 
 ent-
 English equivalents: dis-, de-, un-
@@ -209,11 +198,28 @@ Checks out(?):
 1. entlassen - to discharge, to dismiss
 Does not check out:
 1. enthalten - to contain
+2. entstehen - to arise, to develop
+
+er-
+English equivalents: re-, up, (indicates completion)
+Meanings: Completion, achieving, beginning
+Checks out:
+1. erfüllen - {to fulfill}
+2. erkennen - {to recognize}, to realize (as in "kennen - to cognize")
+3. ersetzen - to replace, to reimburse (as in "setzen - to place yourself")
+Checks out(?):
+1. erreichen - to reach, to achieve
+Does not check out:
+1. erstellen - to create
+2. erhalten - to receive
+3. erziehen - to raise, to educate
+4. erfahren - to learn, to find out
 
 her-
 English equivalents: here, towards
 Meanings: Movement towards the speaker
 Checks out:
+Checks out(?):
 Does not check out:
 1. herstellen - to produce
 
@@ -221,14 +227,18 @@ ver-
 English equivalents: mis-, for-, (can intensify or negate the verb)
 Meanings: Negation, intensification, error
 Checks out:
+Checks out(?):
 Does not check out:
 1. verschreiben - to prescribe (as in "schreiben - to scribe")
 2. sich verhalten - to behave
 3. verlassen - to leave, to rely on
+4. versprechen - to promise
+5. (sich) verstehen - to understand, to get along
 
 vor-
 English equivalents: fore-, pre-, forward
 Meanings: Before, forward, in front
 Checks out:
+Checks out(?):
 Does not check out:
 1. (sich) vorstellen - to imagine, to introduce
