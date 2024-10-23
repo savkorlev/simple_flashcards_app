@@ -18112,12 +18112,12 @@ My friend and I go to the same school.
 
 die Förderung, -en
 
-Die Förderung von Projekten ist wichtig.
+Für das Projekt bekommen wir eine Förderung von der Stadt.
 
 
-promotion, support
+funding, support
 
-The promotion of projects is important.
+We are receiving funding from the city for the project.
 
 
 
@@ -18160,12 +18160,12 @@ I bought a new drive for my computer.
 
 der Dialog, -e
 
-Die Dialoge in diesem Film sind sehr gut geschrieben.
+Sie hören jetzt einen Dialog.
 
 
-dialogue
+dialog
 
-The dialogues in this film are very well written.
+You are now listening to a dialog.
 
 
 
@@ -18276,12 +18276,16 @@ ander-
 
 1. Die anderen sind schon nach Hause gegangen.
 2. Bitte nicht alle auf einmal! Einer nach dem anderen.
+3. Ich hätte gern ein anderes Auto.
+4. Natascha hat unter anderem Chinesisch und Spanisch gelernt.
 
 
-other
+other, different, among other things
 
 1. The others have already gone home.
-2. Please not all at once! One after another.
+2. Please, not all at once! One after the other.
+3. I would like a different car.
+4. Natascha has learned, among other things, Chinese and Spanish.
 
 
 
