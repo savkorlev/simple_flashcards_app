@@ -18750,6 +18750,7 @@ liegen, liegt, lag, hat/ist gelegen
 2. Judith liegt noch im Bett.
 3. Er liegt schon seit drei Wochen im Krankenhaus.
 4. Frankfurt liegt am Main.
+5. In den Bergen liegt schon Schnee.
 
 
 to lie, to be located
@@ -18758,6 +18759,7 @@ to lie, to be located
 2. Judith is still in bed.
 3. He has been in the hospital for three weeks.
 4. Frankfurt is located on the Main River.
+5. There is already snow in the mountains.
 
 
 
