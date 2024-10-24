@@ -1,5 +1,5 @@
 Checks out: prefix/particle equivalent AND verb equivalent match, +1 Surplus
-Checks out(?): prefix/particle equivalent OR meaning match, +0.5 Surplus
+Checks out(?): contains prefix/particle OR meaning match, +0.5 Surplus
 Does not check out: no match, -1 Surplus
 
 ### Positive Surplus ###
@@ -46,8 +46,8 @@ Checks out:
 4. ausgeben - to spend (money) (like "to give money out")
 5. ausstellen - {to set out}, to exhibit, to issue
 Checks out(?):
+1. aussprechen - to pronounce (like "to speak out")
 Does not check out:
-1. aussprechen - to pronounce
 
 dar-
 English equivalents: there, forth
@@ -67,6 +67,31 @@ Checks out(?):
 Does not check out:
 1. einstellen - to hire, to adjust
 2. einsetzen - to appoint, to advocate
+
+ent-
+English equivalents: dis-, de-, un-
+Meanings: Separation, removal, reversal
+Checks out:
+Checks out(?):
+1. entlassen - to discharge, to dismiss
+2. entstehen - to develop, to arise
+Does not check out:
+1. enthalten - to contain
+
+er-
+English equivalents: re-, up, (indicates completion)
+Meanings: Completion, achieving, beginning
+Checks out:
+1. erfüllen - {to fulfill}
+2. erkennen - {to recognize}, to realize (as in "kennen - to cognize")
+3. ersetzen - to replace, to reimburse (as in "setzen - to place yourself")
+Checks out(?):
+1. erreichen - to reach, to achieve
+2. erhalten - to receive
+Does not check out:
+1. erstellen - to create
+2. erziehen - to raise, to educate
+3. erfahren - to learn, to find out
 
 fest-
 English equivalents: firm, fixed, tight
@@ -156,8 +181,8 @@ Checks out:
 1. übernehmen - {to take over}
 2. überfahren - {to run over} (like "drive over")
 Checks out(?):
-Does not check out:
 1. übersetzen - to translate
+Does not check out:
 
 wider-
 English equivalents: against, counter-
@@ -191,31 +216,6 @@ Does not check out:
 4. besprechen - to discuss
 5. bestehen - to consist, to pass
 6. benutzen - to use
-
-ent-
-English equivalents: dis-, de-, un-
-Meanings: Separation, removal, reversal
-Checks out:
-Checks out(?):
-1. entlassen - to discharge, to dismiss
-Does not check out:
-1. enthalten - to contain
-2. entstehen - to arise, to develop
-
-er-
-English equivalents: re-, up, (indicates completion)
-Meanings: Completion, achieving, beginning
-Checks out:
-1. erfüllen - {to fulfill}
-2. erkennen - {to recognize}, to realize (as in "kennen - to cognize")
-3. ersetzen - to replace, to reimburse (as in "setzen - to place yourself")
-Checks out(?):
-1. erreichen - to reach, to achieve
-Does not check out:
-1. erstellen - to create
-2. erhalten - to receive
-3. erziehen - to raise, to educate
-4. erfahren - to learn, to find out
 
 her-
 English equivalents: here, towards
