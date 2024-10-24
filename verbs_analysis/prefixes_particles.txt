@@ -33,6 +33,7 @@ Checks out:
 2. aufstehen - {to stand up}, {to get up}
 3. aufhalten - {to hold up}, to stay, to hold
 4. aufräumen - {to clear up}
+5. aufwachen - {to wake up}
 Checks out(?):
 Does not check out:
 
@@ -234,7 +235,7 @@ Does not check out:
 1. verschreiben - to prescribe (as in "schreiben - to scribe")
 2. sich verhalten - to behave
 3. verlassen - to leave, to rely on
-4. versprechen - to promise
+4. versprechen - to promise (honorable mention: to pro-miss)
 5. (sich) verstehen - to understand, to get along
 
 vor-

@@ -18561,7 +18561,7 @@ der Schauspieler, -; die Schauspielerin, -nen
 Der Film war toll. Die Schauspieler waren sehr gut.
 
 
-actor, actress
+actor
 
 The movie was great. The actors were very good.
 
@@ -18793,7 +18793,7 @@ obwohl
 Obwohl meine Kollegin krank ist, geht sie arbeiten.
 
 
-although
+although, despite the fact that
 
 Although my colleague is sick, she goes to work.
 
